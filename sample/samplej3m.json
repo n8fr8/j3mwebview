@@ -1,0 +1,4499 @@
+{
+    "data": {
+        "exif": {
+            "timestamp": "2013:10:07 09:05:49",
+            "exposure": "0.0011",
+            "orientation": 0,
+            "flash": -1,
+            "model": "Nexus 4",
+            "duration": 0,
+            "height": 2448,
+            "iso": "100",
+            "location": [
+                0,
+                0
+            ],
+            "width": 3264,
+            "whiteBalance": -1,
+            "make": "LGE",
+            "focalLength": -1
+        },
+        "userAppendedData": [
+            {
+                "timestamp": 1381162104741,
+                "id": "eb5d71d7db27dd580158e42bef3dea6f",
+                "index": 0,
+                "regionBounds": {
+                    "startTime": -1,
+                    "displayTop": 277,
+                    "height": 561,
+                    "width": 478,
+                    "displayLeft": 439,
+                    "left": 878,
+                    "endTime": -1,
+                    "displayWidth": 239,
+                    "top": 702,
+                    "displayHeight": 230
+                },
+                "associatedForms": [
+                    {
+                        "path": "/forms/46b9f8e70113ae0f39ae26338c0dc433.xml",
+                        "id": "eb5a83687ba23f17ce335a16b05df629",
+                        "answerData": {
+                            "iW_race": "fghjj",
+                            "iW_name": "dghjjhbx"
+                        },
+                        "namespace": "iWitness v 1.0"
+                    }
+                ]
+            }
+        ],
+        "sensorCapture": [
+            {
+                "timestamp": 1381161951368,
+                "sensorPlayback": {
+                    "lightMeterValue": 202,
+                    "pitch": -13.13934326171875,
+                    "roll": -24.1790771484375,
+                    "azimuth": 1.9195556640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943604,
+                "sensorPlayback": {
+                    "acc_z": -2.45587158203125,
+                    "acc_y": 9.56353759765625,
+                    "acc_x": 0.420318603515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954474,
+                "sensorPlayback": {
+                    "lightMeterValue": 1340
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958347,
+                "sensorPlayback": {
+                    "lightMeterValue": 93,
+                    "pitch": -28.73992919921875,
+                    "roll": -21.47979736328125,
+                    "azimuth": -12.298583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942697,
+                "sensorPlayback": {
+                    "lightMeterValue": 551,
+                    "pitch": -6.35986328125,
+                    "roll": -30.95855712890625,
+                    "azimuth": 14.8193359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946529,
+                "sensorPlayback": {
+                    "acc_z": 1.858154296875,
+                    "acc_y": -0.5052337646484375,
+                    "acc_x": -9.524871826171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940144,
+                "sensorPlayback": {
+                    "lightMeterValue": 1030
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945828,
+                "sensorPlayback": {
+                    "pitch": -2.81982421875,
+                    "roll": -25.9185791015625,
+                    "azimuth": 22.85919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953470,
+                "sensorPlayback": {
+                    "lightMeterValue": 802,
+                    "pitch": -30.059814453125,
+                    "roll": -24.359130859375,
+                    "azimuth": -4.61883544921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952540,
+                "sensorPlayback": {
+                    "lightMeterValue": 622
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946629,
+                "sensorPlayback": {
+                    "lightMeterValue": 482,
+                    "acc_z": 1.8857269287109375,
+                    "acc_y": -0.697845458984375,
+                    "acc_x": -9.5665283203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958961,
+                "sensorPlayback": {
+                    "acc_z": 8.220291137695312,
+                    "acc_y": 3.2458343505859375,
+                    "acc_x": -0.2396392822265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957930,
+                "sensorPlayback": {
+                    "acc_z": 8.811416625976562,
+                    "acc_y": 3.7974853515625,
+                    "acc_x": -0.6740570068359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956093,
+                "sensorPlayback": {
+                    "pitch": -33.599853515625,
+                    "roll": -17.57965087890625,
+                    "azimuth": -8.15887451171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959264,
+                "sensorPlayback": {
+                    "acc_z": 10.674652099609375,
+                    "acc_y": 3.09765625,
+                    "acc_x": -0.0543670654296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946429,
+                "sensorPlayback": {
+                    "lightMeterValue": 294
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944306,
+                "sensorPlayback": {
+                    "acc_z": 3.7043304443359375,
+                    "acc_y": 10.177078247070312,
+                    "acc_x": -1.354644775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943906,
+                "sensorPlayback": {
+                    "acc_z": -2.4693603515625,
+                    "roll": -16.259765625,
+                    "azimuth": 2.03857421875,
+                    "pitch": -13.5589599609375,
+                    "acc_y": 9.16680908203125,
+                    "acc_x": 1.9403839111328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948339,
+                "sensorPlayback": {
+                    "pitch": 4.13970947265625,
+                    "roll": -24.11956787109375,
+                    "azimuth": 25.9185791015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940946,
+                "sensorPlayback": {
+                    "acc_z": 6.4080352783203125,
+                    "acc_y": 8.039108276367188,
+                    "acc_x": -0.0016021728515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950768,
+                "sensorPlayback": {
+                    "acc_z": -0.1292572021484375,
+                    "acc_y": 9.84759521484375,
+                    "acc_x": 4.88787841796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953669,
+                "sensorPlayback": {
+                    "lightMeterValue": 802,
+                    "acc_z": 5.50567626953125,
+                    "acc_y": 7.1825714111328125,
+                    "acc_x": 4.1612701416015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945734,
+                "sensorPlayback": {
+                    "pitch": -6.658935546875,
+                    "roll": -25.9796142578125,
+                    "azimuth": 18.359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941995,
+                "sensorPlayback": {
+                    "lightMeterValue": 548,
+                    "acc_z": 3.3540191650390625,
+                    "acc_y": 1.57818603515625,
+                    "acc_x": -9.123779296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956699,
+                "sensorPlayback": {
+                    "lightMeterValue": 319,
+                    "acc_z": 8.31451416015625,
+                    "acc_y": 4.17279052734375,
+                    "acc_x": -1.122161865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947030,
+                "sensorPlayback": {
+                    "pitch": 3.77960205078125,
+                    "roll": -24.8992919921875,
+                    "azimuth": 25.13885498046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954875,
+                "sensorPlayback": {
+                    "pitch": -30.35888671875,
+                    "roll": -21.8994140625,
+                    "azimuth": 1.61895751953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940445,
+                "sensorPlayback": {
+                    "acc_z": 9.162521362304688,
+                    "acc_y": 5.3742828369140625,
+                    "acc_x": -1.3722991943359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941256,
+                "sensorPlayback": {
+                    "acc_z": 7.158447265625,
+                    "roll": -34.91973876953125,
+                    "azimuth": -8.6395263671875,
+                    "lightMeterValue": 455,
+                    "pitch": -6.298828125,
+                    "acc_y": 7.3852996826171875,
+                    "acc_x": -4.91131591796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959265,
+                "sensorPlayback": {
+                    "lightMeterValue": 100,
+                    "pitch": -23.21929931640625,
+                    "roll": -24.8992919921875,
+                    "azimuth": -17.69866943359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958260,
+                "sensorPlayback": {
+                    "acc_z": 10.891265869140625,
+                    "acc_y": 4.1511688232421875,
+                    "acc_x": 0.9404296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943202,
+                "sensorPlayback": {
+                    "acc_z": 3.522430419921875,
+                    "acc_y": 1.0618438720703125,
+                    "acc_x": -8.843093872070312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939502,
+                "sensorPlayback": {
+                    "lightMeterValue": 1008,
+                    "pitch": -2.2186279296875,
+                    "roll": -37.799072265625,
+                    "azimuth": 2.33917236328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951827,
+                "sensorPlayback": {
+                    "acc_z": 1.2664337158203125,
+                    "acc_y": 7.87664794921875,
+                    "acc_x": 5.51470947265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948241,
+                "sensorPlayback": {
+                    "pitch": 4.13970947265625,
+                    "roll": -24.11956787109375,
+                    "azimuth": 25.9185791015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952641,
+                "sensorPlayback": {
+                    "pitch": -25.85906982421875,
+                    "roll": -27.29949951171875,
+                    "azimuth": -10.49957275390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952738,
+                "sensorPlayback": {
+                    "lightMeterValue": 524
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942496,
+                "sensorPlayback": {
+                    "lightMeterValue": 642
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940746,
+                "sensorPlayback": {
+                    "acc_z": 8.249847412109375,
+                    "roll": -36.1785888671875,
+                    "azimuth": -7.43865966796875,
+                    "pitch": -2.2186279296875,
+                    "acc_y": 6.8818511962890625,
+                    "acc_x": 1.0068817138671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944206,
+                "sensorPlayback": {
+                    "acc_z": 1.9857025146484375,
+                    "acc_y": 9.814468383789062,
+                    "acc_x": -0.83135986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958543,
+                "sensorPlayback": {
+                    "acc_z": 9.215087890625,
+                    "acc_y": 4.0799560546875,
+                    "acc_x": -0.9049530029296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942495,
+                "sensorPlayback": {
+                    "acc_z": 2.7113189697265625,
+                    "acc_y": 4.7756195068359375,
+                    "acc_x": -8.315048217773438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950162,
+                "sensorPlayback": {
+                    "acc_z": 1.9067535400390625,
+                    "acc_y": -1.0479583740234375,
+                    "acc_x": -9.47528076171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952235,
+                "sensorPlayback": {
+                    "acc_z": 2.084686279296875,
+                    "acc_y": 8.620712280273438,
+                    "acc_x": 3.8073883056640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940545,
+                "sensorPlayback": {
+                    "acc_z": 6.8553466796875,
+                    "acc_y": 6.3625335693359375,
+                    "acc_x": 0.46514892578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945127,
+                "sensorPlayback": {
+                    "lightMeterValue": 1176,
+                    "pitch": -16.85943603515625,
+                    "roll": -15.23895263671875,
+                    "azimuth": -2.33917236328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943308,
+                "sensorPlayback": {
+                    "lightMeterValue": 1043,
+                    "pitch": -6.35986328125,
+                    "roll": -28.91998291015625,
+                    "azimuth": 19.9798583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942095,
+                "sensorPlayback": {
+                    "acc_z": 3.21258544921875,
+                    "acc_y": 3.5531005859375,
+                    "acc_x": -8.007186889648438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954590,
+                "sensorPlayback": {
+                    "acc_z": 10.294784545898438,
+                    "roll": -22.198486328125,
+                    "azimuth": 2.03857421875,
+                    "lightMeterValue": 1610,
+                    "pitch": -30.2398681640625,
+                    "acc_y": 4.7700653076171875,
+                    "acc_x": 1.1124114990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953144,
+                "sensorPlayback": {
+                    "pitch": -28.67889404296875,
+                    "roll": -25.55999755859375,
+                    "azimuth": -6.719970703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946326,
+                "sensorPlayback": {
+                    "acc_z": 1.8857269287109375,
+                    "acc_y": -0.386016845703125,
+                    "acc_x": -9.659957885742188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954071,
+                "sensorPlayback": {
+                    "pitch": -29.8187255859375,
+                    "roll": -24.23858642578125,
+                    "azimuth": -1.79901123046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949751,
+                "sensorPlayback": {
+                    "lightMeterValue": 438,
+                    "acc_z": 1.615753173828125,
+                    "acc_y": -0.656982421875,
+                    "acc_x": -9.571487426757812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944921,
+                "sensorPlayback": {
+                    "acc_z": 1.8369293212890625,
+                    "acc_y": 0.04840087890625,
+                    "acc_x": -9.7998046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957116,
+                "sensorPlayback": {
+                    "acc_z": 9.008193969726562,
+                    "roll": -17.93975830078125,
+                    "azimuth": -12.77923583984375,
+                    "lightMeterValue": 340,
+                    "pitch": -33.11920166015625,
+                    "acc_y": 5.287994384765625,
+                    "acc_x": 0.867828369140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957855,
+                "sensorPlayback": {
+                    "lightMeterValue": 78,
+                    "pitch": -30.5389404296875,
+                    "roll": -19.9188232421875,
+                    "azimuth": -11.69891357421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943004,
+                "sensorPlayback": {
+                    "acc_z": 4.34088134765625,
+                    "acc_y": 1.774566650390625,
+                    "acc_x": -9.181304931640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951421,
+                "sensorPlayback": {
+                    "acc_z": 3.507354736328125,
+                    "acc_y": 8.647293090820312,
+                    "acc_x": 5.569854736328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950055,
+                "sensorPlayback": {
+                    "acc_z": 1.5651702880859375,
+                    "acc_y": -0.796234130859375,
+                    "acc_x": -9.556610107421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951015,
+                "sensorPlayback": {
+                    "pitch": -6.89849853515625,
+                    "roll": -22.979736328125,
+                    "azimuth": 13.85955810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939090,
+                "sensorPlayback": {
+                    "cellTowerId": "-1"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940849,
+                "sensorPlayback": {
+                    "lightMeterValue": 235
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945527,
+                "sensorPlayback": {
+                    "lightMeterValue": 1218,
+                    "acc_z": 1.6544342041015625,
+                    "acc_y": -0.1172332763671875,
+                    "acc_x": -9.848602294921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952441,
+                "sensorPlayback": {
+                    "pitch": -24.5391845703125,
+                    "roll": -27.65960693359375,
+                    "azimuth": -12.1185302734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942295,
+                "sensorPlayback": {
+                    "lightMeterValue": 583,
+                    "acc_z": 2.36041259765625,
+                    "acc_y": 3.7100067138671875,
+                    "acc_x": -8.508255004882812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953370,
+                "sensorPlayback": {
+                    "lightMeterValue": 1041,
+                    "pitch": -29.8797607421875,
+                    "roll": -24.59869384765625,
+                    "azimuth": -5.218505859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946040,
+                "sensorPlayback": {
+                    "acc_z": 1.8337554931640625,
+                    "roll": -25.19989013671875,
+                    "azimuth": 25.37994384765625,
+                    "lightMeterValue": 1098,
+                    "pitch": 0.71868896484375,
+                    "acc_y": -0.0680389404296875,
+                    "acc_x": -9.535980224609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952339,
+                "sensorPlayback": {
+                    "acc_z": 2.1209869384765625,
+                    "acc_y": 8.964874267578125,
+                    "acc_x": 4.4635772705078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957527,
+                "sensorPlayback": {
+                    "lightMeterValue": 83,
+                    "acc_z": 9.267654418945312,
+                    "acc_y": 4.925384521484375,
+                    "acc_x": -0.6062164306640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957428,
+                "sensorPlayback": {
+                    "pitch": -32.51953125,
+                    "roll": -18.359375,
+                    "azimuth": -12.5396728515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955390,
+                "sensorPlayback": {
+                    "pitch": -31.55975341796875,
+                    "roll": -19.9798583984375,
+                    "azimuth": 1.07879638671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958043,
+                "sensorPlayback": {
+                    "lightMeterValue": 83,
+                    "acc_z": 9.613998413085938,
+                    "acc_y": 5.1620330810546875,
+                    "acc_x": 0.0944061279296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950775,
+                "sensorPlayback": {
+                    "pitch": -3.118896484375,
+                    "roll": -23.638916015625,
+                    "azimuth": 20.159912109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945427,
+                "sensorPlayback": {
+                    "lightMeterValue": 1228,
+                    "acc_z": 1.6512603759765625,
+                    "acc_y": -0.395538330078125,
+                    "acc_x": -9.59429931640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950467,
+                "sensorPlayback": {
+                    "lightMeterValue": 441
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958962,
+                "sensorPlayback": {
+                    "acc_z": 9.713775634765625,
+                    "roll": -23.27880859375,
+                    "azimuth": -15.77911376953125,
+                    "lightMeterValue": 105,
+                    "pitch": -25.9185791015625,
+                    "acc_y": 2.74774169921875,
+                    "acc_x": -0.143829345703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952437,
+                "sensorPlayback": {
+                    "acc_z": 2.2963409423828125,
+                    "acc_y": 8.588973999023438,
+                    "acc_x": 4.201934814453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952638,
+                "sensorPlayback": {
+                    "acc_z": 2.0392608642578125,
+                    "acc_y": 8.534225463867188,
+                    "acc_x": 3.5032958984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943804,
+                "sensorPlayback": {
+                    "acc_z": -2.3106689453125,
+                    "acc_y": 9.180099487304688,
+                    "acc_x": 1.42205810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954980,
+                "sensorPlayback": {
+                    "pitch": -30.35888671875,
+                    "roll": -21.8994140625,
+                    "azimuth": 1.61895751953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946630,
+                "sensorPlayback": {
+                    "pitch": 3.23944091796875,
+                    "roll": -25.01983642578125,
+                    "azimuth": 25.55999755859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957931,
+                "sensorPlayback": {
+                    "lightMeterValue": 78,
+                    "pitch": -30.5389404296875,
+                    "roll": -19.9188232421875,
+                    "azimuth": -11.69891357421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940045,
+                "sensorPlayback": {
+                    "lightMeterValue": 1030
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941864,
+                "sensorPlayback": {
+                    "pitch": -7.67974853515625,
+                    "roll": -33.1787109375,
+                    "azimuth": -4.85992431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948747,
+                "sensorPlayback": {
+                    "lightMeterValue": 436,
+                    "pitch": 4.0191650390625,
+                    "roll": -23.9990234375,
+                    "azimuth": 26.2786865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946428,
+                "sensorPlayback": {
+                    "acc_z": 1.7115631103515625,
+                    "acc_y": -0.4088287353515625,
+                    "acc_x": -9.567916870117188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949350,
+                "sensorPlayback": {
+                    "pitch": 3.95965576171875,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.6387939453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949347,
+                "sensorPlayback": {
+                    "acc_z": 1.5615997314453125,
+                    "acc_y": -0.6778106689453125,
+                    "acc_x": -9.601638793945312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946530,
+                "sensorPlayback": {
+                    "lightMeterValue": 482,
+                    "acc_z": 1.8857269287109375,
+                    "acc_y": -0.697845458984375,
+                    "acc_x": -9.5665283203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944307,
+                "sensorPlayback": {
+                    "lightMeterValue": 220,
+                    "pitch": -18.29986572265625,
+                    "roll": -14.8193359375,
+                    "azimuth": -7.379150390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946230,
+                "sensorPlayback": {
+                    "acc_z": 1.9432525634765625,
+                    "acc_y": -0.2586669921875,
+                    "acc_x": -9.467147827148438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946430,
+                "sensorPlayback": {
+                    "pitch": 3.179931640625,
+                    "roll": -25.01983642578125,
+                    "azimuth": 25.55999755859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946031,
+                "sensorPlayback": {
+                    "acc_z": 2.04937744140625,
+                    "acc_y": -0.05950927734375,
+                    "acc_x": -9.68792724609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957235,
+                "sensorPlayback": {
+                    "lightMeterValue": 172,
+                    "acc_z": 8.909011840820312,
+                    "acc_y": 4.8625030517578125,
+                    "acc_x": -0.2824859619140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955991,
+                "sensorPlayback": {
+                    "lightMeterValue": 236,
+                    "acc_z": 7.6779632568359375,
+                    "acc_y": 3.2880859375,
+                    "acc_x": 2.9179229736328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946327,
+                "sensorPlayback": {
+                    "lightMeterValue": 294,
+                    "pitch": 2.7587890625,
+                    "roll": -24.83978271484375,
+                    "azimuth": 25.67901611328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951220,
+                "sensorPlayback": {
+                    "lightMeterValue": 190,
+                    "pitch": -10.13946533203125,
+                    "roll": -23.4588623046875,
+                    "azimuth": 7.85980224609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948240,
+                "sensorPlayback": {
+                    "lightMeterValue": 453
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951523,
+                "sensorPlayback": {
+                    "acc_z": 2.643280029296875,
+                    "acc_y": 8.331298828125,
+                    "acc_x": 3.8042144775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958759,
+                "sensorPlayback": {
+                    "acc_z": 9.487640380859375,
+                    "acc_y": 4.250946044921875,
+                    "acc_x": 0.00732421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948038,
+                "sensorPlayback": {
+                    "lightMeterValue": 432,
+                    "acc_z": 1.663360595703125,
+                    "acc_y": -0.6032257080078125,
+                    "acc_x": -9.630996704101562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941350,
+                "sensorPlayback": {
+                    "acc_z": 7.158447265625,
+                    "roll": -34.91973876953125,
+                    "azimuth": -8.6395263671875,
+                    "lightMeterValue": 455,
+                    "pitch": -6.298828125,
+                    "acc_y": 7.3852996826171875,
+                    "acc_x": -4.91131591796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951219,
+                "sensorPlayback": {
+                    "acc_z": 3.9022979736328125,
+                    "acc_y": 8.440597534179688,
+                    "acc_x": 3.0294036865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950368,
+                "sensorPlayback": {
+                    "pitch": 4.0191650390625,
+                    "roll": -24.359130859375,
+                    "azimuth": 27.3590087890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952541,
+                "sensorPlayback": {
+                    "pitch": -24.5391845703125,
+                    "roll": -27.65960693359375,
+                    "azimuth": -12.1185302734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952033,
+                "sensorPlayback": {
+                    "lightMeterValue": 424,
+                    "acc_z": 3.5751953125,
+                    "acc_y": 8.151779174804688,
+                    "acc_x": 3.8657073974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948846,
+                "sensorPlayback": {
+                    "lightMeterValue": 455,
+                    "acc_z": 1.724853515625,
+                    "acc_y": -0.543121337890625,
+                    "acc_x": -9.573471069335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953041,
+                "sensorPlayback": {
+                    "acc_z": 1.373748779296875,
+                    "acc_y": 7.831024169921875,
+                    "acc_x": 2.546783447265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944924,
+                "sensorPlayback": {
+                    "lightMeterValue": 861,
+                    "pitch": -20.57952880859375,
+                    "roll": -14.33868408203125,
+                    "azimuth": -8.45947265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939083,
+                "sensorPlayback": {
+                    "gps_coords": "[37.7649889,-122.4543515]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945728,
+                "sensorPlayback": {
+                    "acc_z": 1.6615753173828125,
+                    "acc_y": 0.0109100341796875,
+                    "acc_x": -9.547286987304688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943006,
+                "sensorPlayback": {
+                    "lightMeterValue": 746,
+                    "pitch": -6.1798095703125,
+                    "roll": -29.4586181640625,
+                    "azimuth": 19.07958984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943203,
+                "sensorPlayback": {
+                    "lightMeterValue": 1043,
+                    "pitch": -6.35986328125,
+                    "roll": -28.91998291015625,
+                    "azimuth": 19.9798583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950670,
+                "sensorPlayback": {
+                    "pitch": -3.118896484375,
+                    "roll": -23.638916015625,
+                    "azimuth": 20.159912109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950468,
+                "sensorPlayback": {
+                    "pitch": 1.13983154296875,
+                    "roll": -24.71923828125,
+                    "azimuth": 26.15966796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957857,
+                "sensorPlayback": {
+                    "pitch": -31.439208984375,
+                    "roll": -19.31915283203125,
+                    "azimuth": -11.8194580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951828,
+                "sensorPlayback": {
+                    "acc_z": 1.9527740478515625,
+                    "roll": -25.55999755859375,
+                    "azimuth": -8.45947265625,
+                    "lightMeterValue": 533,
+                    "pitch": -19.439697265625,
+                    "acc_y": 8.377517700195312,
+                    "acc_x": 7.31585693359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958042,
+                "sensorPlayback": {
+                    "pitch": -30.5389404296875,
+                    "roll": -19.9188232421875,
+                    "azimuth": -11.69891357421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953569,
+                "sensorPlayback": {
+                    "acc_z": 5.014923095703125,
+                    "acc_y": 8.279922485351562,
+                    "acc_x": 5.9421844482421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951332,
+                "sensorPlayback": {
+                    "acc_z": 3.333587646484375,
+                    "acc_y": 8.458053588867188,
+                    "acc_x": 3.3795166015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955790,
+                "sensorPlayback": {
+                    "lightMeterValue": 219,
+                    "acc_z": 7.6486053466796875,
+                    "acc_y": 6.031463623046875,
+                    "acc_x": 0.877349853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939700,
+                "sensorPlayback": {
+                    "lightMeterValue": 1008,
+                    "acc_z": 7.9199676513671875,
+                    "acc_y": 5.7694244384765625,
+                    "acc_x": -0.1237945556640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955992,
+                "sensorPlayback": {
+                    "pitch": -33.65936279296875,
+                    "roll": -17.57965087890625,
+                    "azimuth": -5.6396484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946829,
+                "sensorPlayback": {
+                    "lightMeterValue": 483,
+                    "pitch": 3.59954833984375,
+                    "roll": -24.95880126953125,
+                    "azimuth": 25.37994384765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955590,
+                "sensorPlayback": {
+                    "lightMeterValue": 219,
+                    "acc_z": 7.6486053466796875,
+                    "acc_y": 6.031463623046875,
+                    "acc_x": 0.877349853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949657,
+                "sensorPlayback": {
+                    "acc_z": 1.5449371337890625,
+                    "roll": -24.359130859375,
+                    "azimuth": 27.0599365234375,
+                    "lightMeterValue": 448,
+                    "pitch": 4.07867431640625,
+                    "acc_y": -0.626434326171875,
+                    "acc_x": -9.621475219726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946127,
+                "sensorPlayback": {
+                    "acc_z": 1.8337554931640625,
+                    "roll": -25.19989013671875,
+                    "azimuth": 25.37994384765625,
+                    "lightMeterValue": 1098,
+                    "pitch": 0.71868896484375,
+                    "acc_y": -0.0680389404296875,
+                    "acc_x": -9.535980224609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942399,
+                "sensorPlayback": {
+                    "pitch": -6.95953369140625,
+                    "roll": -31.439208984375,
+                    "azimuth": 10.13946533203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957628,
+                "sensorPlayback": {
+                    "pitch": -32.09991455078125,
+                    "roll": -18.719482421875,
+                    "azimuth": -12.298583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946231,
+                "sensorPlayback": {
+                    "lightMeterValue": 294,
+                    "pitch": 2.7587890625,
+                    "roll": -24.83978271484375,
+                    "azimuth": 25.67901611328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952242,
+                "sensorPlayback": {
+                    "pitch": -24.29962158203125,
+                    "roll": -27.0599365234375,
+                    "azimuth": -14.459228515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949227,
+                "sensorPlayback": {
+                    "gps_coords": "[37.7649891,-122.4543543]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945529,
+                "sensorPlayback": {
+                    "pitch": -10.49957275390625,
+                    "roll": -25.2593994140625,
+                    "azimuth": 12.05902099609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956393,
+                "sensorPlayback": {
+                    "acc_z": 8.433929443359375,
+                    "acc_y": 5.8824920654296875,
+                    "acc_x": 2.480926513671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954673,
+                "sensorPlayback": {
+                    "acc_z": 10.294784545898438,
+                    "roll": -22.198486328125,
+                    "azimuth": 2.03857421875,
+                    "lightMeterValue": 1610,
+                    "pitch": -30.2398681640625,
+                    "acc_y": 4.7700653076171875,
+                    "acc_x": 1.1124114990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941552,
+                "sensorPlayback": {
+                    "acc_z": 4.2970428466796875,
+                    "acc_y": 5.1907958984375,
+                    "acc_x": -7.109588623046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951929,
+                "sensorPlayback": {
+                    "pitch": -23.39935302734375,
+                    "roll": -25.85906982421875,
+                    "azimuth": -13.5589599609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943504,
+                "sensorPlayback": {
+                    "acc_z": -2.0958404541015625,
+                    "acc_y": 9.05731201171875,
+                    "acc_x": 1.05706787109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949656,
+                "sensorPlayback": {
+                    "acc_z": 1.50506591796875,
+                    "acc_y": -0.6395263671875,
+                    "acc_x": -9.631195068359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951366,
+                "sensorPlayback": {
+                    "lightMeterValue": 190
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958765,
+                "sensorPlayback": {
+                    "pitch": -27.3590087890625,
+                    "roll": -22.259521484375,
+                    "azimuth": -13.9190673828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952143,
+                "sensorPlayback": {
+                    "pitch": -24.41864013671875,
+                    "roll": -25.738525390625,
+                    "azimuth": -16.67938232421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946532,
+                "sensorPlayback": {
+                    "pitch": 3.179931640625,
+                    "roll": -25.01983642578125,
+                    "azimuth": 25.55999755859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945528,
+                "sensorPlayback": {
+                    "acc_z": 1.7075958251953125,
+                    "acc_y": -0.3572540283203125,
+                    "acc_x": -9.938262939453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940745,
+                "sensorPlayback": {
+                    "lightMeterValue": 262,
+                    "acc_z": 6.240020751953125,
+                    "acc_y": 7.6435699462890625,
+                    "acc_x": 0.9007568359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943306,
+                "sensorPlayback": {
+                    "lightMeterValue": 757
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954672,
+                "sensorPlayback": {
+                    "acc_z": 7.0777130126953125,
+                    "acc_y": 4.78533935546875,
+                    "acc_x": 1.6059417724609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954874,
+                "sensorPlayback": {
+                    "lightMeterValue": 423
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948338,
+                "sensorPlayback": {
+                    "lightMeterValue": 416
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957115,
+                "sensorPlayback": {
+                    "acc_z": 12.59759521484375,
+                    "acc_y": 4.48065185546875,
+                    "acc_x": 3.6998748779296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952142,
+                "sensorPlayback": {
+                    "lightMeterValue": 573
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958648,
+                "sensorPlayback": {
+                    "pitch": -28.01971435546875,
+                    "roll": -21.8994140625,
+                    "azimuth": -12.8997802734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956599,
+                "sensorPlayback": {
+                    "lightMeterValue": 319,
+                    "acc_z": 8.31451416015625,
+                    "acc_y": 4.17279052734375,
+                    "acc_x": -1.122161865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944407,
+                "sensorPlayback": {
+                    "acc_z": 1.453094482421875,
+                    "roll": -14.93988037109375,
+                    "azimuth": -9.2987060546875,
+                    "lightMeterValue": 220,
+                    "pitch": -20.159912109375,
+                    "acc_y": 7.9863433837890625,
+                    "acc_x": -3.500152587890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943505,
+                "sensorPlayback": {
+                    "lightMeterValue": 215
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949961,
+                "sensorPlayback": {
+                    "pitch": 4.07867431640625,
+                    "roll": -24.359130859375,
+                    "azimuth": 26.9989013671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948439,
+                "sensorPlayback": {
+                    "acc_z": 1.65185546875,
+                    "acc_y": -0.5500640869140625,
+                    "acc_x": -9.576446533203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948238,
+                "sensorPlayback": {
+                    "acc_z": 1.6754608154296875,
+                    "acc_y": -0.58795166015625,
+                    "acc_x": -9.617904663085938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958645,
+                "sensorPlayback": {
+                    "acc_z": 9.936737060546875,
+                    "acc_y": 3.6865997314453125,
+                    "acc_x": -0.55047607421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957427,
+                "sensorPlayback": {
+                    "lightMeterValue": 172,
+                    "acc_z": 8.909011840820312,
+                    "acc_y": 4.8625030517578125,
+                    "acc_x": -0.2824859619140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958131,
+                "sensorPlayback": {
+                    "lightMeterValue": 83,
+                    "acc_z": 9.613998413085938,
+                    "acc_y": 5.1620330810546875,
+                    "acc_x": 0.0944061279296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956394,
+                "sensorPlayback": {
+                    "lightMeterValue": 215,
+                    "acc_z": 9.693145751953125,
+                    "acc_y": 5.893798828125,
+                    "acc_x": 0.60955810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944004,
+                "sensorPlayback": {
+                    "acc_z": 3.86639404296875,
+                    "acc_y": 9.49212646484375,
+                    "acc_x": -0.25213623046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941047,
+                "sensorPlayback": {
+                    "lightMeterValue": 256
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955691,
+                "sensorPlayback": {
+                    "acc_z": 7.5414886474609375,
+                    "acc_y": 4.853179931640625,
+                    "acc_x": 0.5946807861328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948847,
+                "sensorPlayback": {
+                    "pitch": 3.839111328125,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.519775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944508,
+                "sensorPlayback": {
+                    "lightMeterValue": 439,
+                    "acc_z": 3.0834503173828125,
+                    "acc_y": 6.0889892578125,
+                    "acc_x": -5.3360137939453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959462,
+                "sensorPlayback": {
+                    "lightMeterValue": 99,
+                    "acc_z": 8.847122192382812,
+                    "acc_y": 3.6354217529296875,
+                    "acc_x": 1.7924041748046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956092,
+                "sensorPlayback": {
+                    "lightMeterValue": 236,
+                    "acc_z": 7.6779632568359375,
+                    "acc_y": 3.2880859375,
+                    "acc_x": 2.9179229736328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957015,
+                "sensorPlayback": {
+                    "acc_z": 9.008193969726562,
+                    "roll": -17.93975830078125,
+                    "azimuth": -12.77923583984375,
+                    "lightMeterValue": 340,
+                    "pitch": -33.11920166015625,
+                    "acc_y": 5.287994384765625,
+                    "acc_x": 0.867828369140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953970,
+                "sensorPlayback": {
+                    "acc_z": 6.8595123291015625,
+                    "roll": -24.359130859375,
+                    "azimuth": -3.3599853515625,
+                    "lightMeterValue": 964,
+                    "pitch": -29.638671875,
+                    "acc_y": 7.449371337890625,
+                    "acc_x": 4.332061767578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941447,
+                "sensorPlayback": {
+                    "acc_z": 6.812896728515625,
+                    "acc_y": 4.62188720703125,
+                    "acc_x": -5.1150360107421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950667,
+                "sensorPlayback": {
+                    "acc_z": -0.337738037109375,
+                    "acc_y": 8.298568725585938,
+                    "acc_x": -0.134307861328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939944,
+                "sensorPlayback": {
+                    "acc_z": 8.244888305664062,
+                    "acc_y": 5.8075103759765625,
+                    "acc_x": -0.0666656494140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958263,
+                "sensorPlayback": {
+                    "pitch": -29.638671875,
+                    "roll": -20.93963623046875,
+                    "azimuth": -11.8194580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959226,
+                "sensorPlayback": {
+                    "gps_coords": "[37.7649891,-122.4543543]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948746,
+                "sensorPlayback": {
+                    "lightMeterValue": 455,
+                    "acc_z": 1.724853515625,
+                    "acc_y": -0.543121337890625,
+                    "acc_x": -9.573471069335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944107,
+                "sensorPlayback": {
+                    "lightMeterValue": 301,
+                    "pitch": -16.0797119140625,
+                    "roll": -15.23895263671875,
+                    "azimuth": -3.3599853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948140,
+                "sensorPlayback": {
+                    "lightMeterValue": 453
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947838,
+                "sensorPlayback": {
+                    "lightMeterValue": 440,
+                    "acc_z": 1.7286224365234375,
+                    "acc_y": -0.601837158203125,
+                    "acc_x": -9.600250244140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946731,
+                "sensorPlayback": {
+                    "pitch": 3.23944091796875,
+                    "roll": -25.01983642578125,
+                    "azimuth": 25.55999755859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947533,
+                "sensorPlayback": {
+                    "lightMeterValue": 408,
+                    "acc_z": 1.7667083740234375,
+                    "acc_y": -0.537567138671875,
+                    "acc_x": -9.527053833007812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954373,
+                "sensorPlayback": {
+                    "lightMeterValue": 1340,
+                    "pitch": -29.69970703125,
+                    "roll": -23.75946044921875,
+                    "azimuth": 0.1190185546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945126,
+                "sensorPlayback": {
+                    "acc_z": 0.5489501953125,
+                    "acc_y": -0.364593505859375,
+                    "acc_x": -10.025741577148438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953670,
+                "sensorPlayback": {
+                    "lightMeterValue": 964,
+                    "pitch": -30.11932373046875,
+                    "roll": -24.41864013671875,
+                    "azimuth": -4.3792724609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951624,
+                "sensorPlayback": {
+                    "lightMeterValue": 217,
+                    "pitch": -16.13922119140625,
+                    "roll": -24.95880126953125,
+                    "azimuth": -3.47900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959362,
+                "sensorPlayback": {
+                    "acc_z": 10.674652099609375,
+                    "acc_y": 3.09765625,
+                    "acc_x": -0.0543670654296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946930,
+                "sensorPlayback": {
+                    "pitch": 3.59954833984375,
+                    "roll": -24.95880126953125,
+                    "azimuth": 25.37994384765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939198,
+                "sensorPlayback": {
+                    "acc_z": 6.9214019775390625,
+                    "acc_y": 6.3597564697265625,
+                    "acc_x": 0.3272857666015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946828,
+                "sensorPlayback": {
+                    "acc_z": 1.88433837890625,
+                    "acc_y": -0.6726531982421875,
+                    "acc_x": -9.503250122070312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958346,
+                "sensorPlayback": {
+                    "acc_z": 8.538070678710938,
+                    "acc_y": 4.2196044921875,
+                    "acc_x": 0.525054931640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957328,
+                "sensorPlayback": {
+                    "lightMeterValue": 172,
+                    "acc_z": 8.909011840820312,
+                    "acc_y": 4.8625030517578125,
+                    "acc_x": -0.2824859619140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954473,
+                "sensorPlayback": {
+                    "acc_z": 6.520111083984375,
+                    "acc_y": 5.3250885009765625,
+                    "acc_x": 0.6934661865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948543,
+                "sensorPlayback": {
+                    "acc_z": 1.2533416748046875,
+                    "roll": -24.05853271484375,
+                    "azimuth": 26.21917724609375,
+                    "lightMeterValue": 436,
+                    "pitch": 4.0191650390625,
+                    "acc_y": -0.6670989990234375,
+                    "acc_x": -9.596481323242188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940345,
+                "sensorPlayback": {
+                    "lightMeterValue": 637,
+                    "pitch": 0.299072265625,
+                    "roll": -37.67852783203125,
+                    "azimuth": 3.6590576171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939701,
+                "sensorPlayback": {
+                    "lightMeterValue": 1030,
+                    "pitch": -0.59967041015625,
+                    "roll": -38.1591796875,
+                    "azimuth": 4.13970947265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941667,
+                "sensorPlayback": {
+                    "acc_z": 4.566619873046875,
+                    "acc_y": 4.2598724365234375,
+                    "acc_x": -7.960174560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941668,
+                "sensorPlayback": {
+                    "lightMeterValue": 776
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941669,
+                "sensorPlayback": {
+                    "pitch": -7.1990966796875,
+                    "roll": -34.0789794921875,
+                    "azimuth": -6.89849853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954070,
+                "sensorPlayback": {
+                    "lightMeterValue": 10000,
+                    "acc_z": 5.1192626953125,
+                    "acc_y": 8.210891723632812,
+                    "acc_x": 1.381988525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947234,
+                "sensorPlayback": {
+                    "acc_z": 1.6560211181640625,
+                    "acc_y": -0.6934814453125,
+                    "acc_x": -9.563751220703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947748,
+                "sensorPlayback": {
+                    "lightMeterValue": 440,
+                    "acc_z": 1.7286224365234375,
+                    "acc_y": -0.601837158203125,
+                    "acc_x": -9.600250244140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947332,
+                "sensorPlayback": {
+                    "acc_z": 1.6818084716796875,
+                    "roll": -24.83978271484375,
+                    "azimuth": 25.079345703125,
+                    "lightMeterValue": 451,
+                    "pitch": 4.07867431640625,
+                    "acc_y": -0.6460723876953125,
+                    "acc_x": -9.492141723632812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955290,
+                "sensorPlayback": {
+                    "acc_z": 9.300186157226562,
+                    "acc_y": 5.0400390625,
+                    "acc_x": 2.5588836669921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956899,
+                "sensorPlayback": {
+                    "acc_z": 7.392120361328125,
+                    "roll": -17.15850830078125,
+                    "azimuth": -12.4786376953125,
+                    "pitch": -33.89892578125,
+                    "acc_y": 4.4459381103515625,
+                    "acc_x": -0.1162567138671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950365,
+                "sensorPlayback": {
+                    "acc_z": 3.64581298828125,
+                    "acc_y": -2.204620361328125,
+                    "acc_x": -10.955078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943743,
+                "sensorPlayback": {
+                    "pitch": -11.57989501953125,
+                    "roll": -21.539306640625,
+                    "azimuth": 8.5784912109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958132,
+                "sensorPlayback": {
+                    "pitch": -29.638671875,
+                    "roll": -20.93963623046875,
+                    "azimuth": -11.8194580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959066,
+                "sensorPlayback": {
+                    "acc_z": 9.909759521484375,
+                    "acc_y": 2.1217041015625,
+                    "acc_x": -0.9620819091796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950567,
+                "sensorPlayback": {
+                    "lightMeterValue": 230
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941553,
+                "sensorPlayback": {
+                    "lightMeterValue": 776,
+                    "pitch": -6.59942626953125,
+                    "roll": -34.67864990234375,
+                    "azimuth": -8.03985595703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950569,
+                "sensorPlayback": {
+                    "pitch": 1.13983154296875,
+                    "roll": -24.71923828125,
+                    "azimuth": 26.15966796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949960,
+                "sensorPlayback": {
+                    "lightMeterValue": 440
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948645,
+                "sensorPlayback": {
+                    "acc_z": 1.4407958984375,
+                    "acc_y": -0.606201171875,
+                    "acc_x": -9.553237915039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958545,
+                "sensorPlayback": {
+                    "pitch": -28.01971435546875,
+                    "roll": -21.8994140625,
+                    "azimuth": -12.8997802734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939480,
+                "sensorPlayback": {
+                    "visibleWifiNetworks": [
+                        {
+                            "bssid": "3c:ea:4f:54:c2:11",
+                            "ssid": "2WIRE747"
+                        },
+                        {
+                            "bssid": "10:bf:48:3d:0b:9e",
+                            "ssid": "redhotskillet"
+                        },
+                        {
+                            "bssid": "f0:d1:a9:10:81:3d",
+                            "ssid": "Beandirt"
+                        },
+                        {
+                            "bssid": "00:0d:67:2a:fe:4a",
+                            "ssid": "CableWiFi"
+                        },
+                        {
+                            "bssid": "00:0d:67:2a:fe:50",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "14:5b:d1:a1:7e:10",
+                            "ssid": "Saixi"
+                        },
+                        {
+                            "bssid": "dc:45:17:74:b6:00",
+                            "ssid": "ATT880"
+                        },
+                        {
+                            "bssid": "00:26:f2:8f:33:ef",
+                            "ssid": "beckles123"
+                        },
+                        {
+                            "bssid": "00:26:f2:65:a4:a0",
+                            "ssid": "Q Ball"
+                        },
+                        {
+                            "bssid": "20:e5:64:ab:90:e0",
+                            "ssid": "ATT960"
+                        },
+                        {
+                            "bssid": "e0:46:9a:4d:7f:ec",
+                            "ssid": "NETGEAR8675309"
+                        },
+                        {
+                            "bssid": "98:fc:11:5f:d3:4c",
+                            "ssid": "QuickFish"
+                        },
+                        {
+                            "bssid": "10:bf:48:3d:0b:9d",
+                            "ssid": "redhotskillet_guest"
+                        },
+                        {
+                            "bssid": "e8:6d:52:ad:de:60",
+                            "ssid": "ATT664"
+                        },
+                        {
+                            "bssid": "f8:0b:be:12:d1:e0",
+                            "ssid": "ATT120"
+                        },
+                        {
+                            "bssid": "c0:c1:c0:d4:82:07",
+                            "ssid": "CJcoop3"
+                        },
+                        {
+                            "bssid": "40:b7:f3:62:c6:00",
+                            "ssid": "ATT536"
+                        },
+                        {
+                            "bssid": "00:26:5a:cc:58:87",
+                            "ssid": "switchvideo"
+                        },
+                        {
+                            "bssid": "b8:9b:c9:73:4b:3a",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "b8:9b:c9:73:4b:3b",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "00:26:50:ea:1e:a9",
+                            "ssid": "2WIRE349"
+                        },
+                        {
+                            "bssid": "78:cd:8e:44:30:08",
+                            "ssid": "sfgeorge"
+                        },
+                        {
+                            "bssid": "78:cd:8e:44:30:0a",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "ca:d7:19:af:72:ee",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "78:cd:8e:44:30:09",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "64:66:b3:a0:00:64",
+                            "ssid": "Ladybug"
+                        },
+                        {
+                            "bssid": "00:1d:d1:51:82:60",
+                            "ssid": "HOME-8262"
+                        },
+                        {
+                            "bssid": "58:6d:8f:b0:29:14",
+                            "ssid": "Candles3Leaves"
+                        },
+                        {
+                            "bssid": "00:1f:f3:c0:e5:e0",
+                            "ssid": "Weebay"
+                        }
+                    ]
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947542,
+                "sensorPlayback": {
+                    "acc_z": 1.674468994140625,
+                    "roll": -24.65972900390625,
+                    "azimuth": 25.37994384765625,
+                    "lightMeterValue": 451,
+                    "pitch": 4.25872802734375,
+                    "acc_y": -0.5960845947265625,
+                    "acc_x": -9.412002563476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958031,
+                "sensorPlayback": {
+                    "acc_z": 9.482681274414062,
+                    "acc_y": 4.5830078125,
+                    "acc_x": -0.4213409423828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954475,
+                "sensorPlayback": {
+                    "pitch": -30.059814453125,
+                    "roll": -22.85919189453125,
+                    "azimuth": 1.43890380859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948039,
+                "sensorPlayback": {
+                    "pitch": 4.07867431640625,
+                    "roll": -24.23858642578125,
+                    "azimuth": 25.738525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945229,
+                "sensorPlayback": {
+                    "lightMeterValue": 1176
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943723,
+                "sensorPlayback": {
+                    "acc_z": -2.4255218505859375,
+                    "acc_y": 9.543304443359375,
+                    "acc_x": 1.342315673828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947130,
+                "sensorPlayback": {
+                    "lightMeterValue": 471,
+                    "acc_z": 1.807373046875,
+                    "acc_y": -0.655792236328125,
+                    "acc_x": -9.720062255859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940546,
+                "sensorPlayback": {
+                    "lightMeterValue": 350,
+                    "pitch": 0.1190185546875,
+                    "roll": -37.67852783203125,
+                    "azimuth": -0.8392333984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946730,
+                "sensorPlayback": {
+                    "lightMeterValue": 483,
+                    "pitch": 3.59954833984375,
+                    "roll": -24.95880126953125,
+                    "azimuth": 25.37994384765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959069,
+                "sensorPlayback": {
+                    "acc_z": 9.713775634765625,
+                    "roll": -23.27880859375,
+                    "azimuth": -15.77911376953125,
+                    "lightMeterValue": 105,
+                    "pitch": -25.9185791015625,
+                    "acc_y": 2.74774169921875,
+                    "acc_x": -0.143829345703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943607,
+                "sensorPlayback": {
+                    "pitch": -11.57989501953125,
+                    "roll": -21.539306640625,
+                    "azimuth": 8.5784912109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950163,
+                "sensorPlayback": {
+                    "lightMeterValue": 441,
+                    "pitch": 4.07867431640625,
+                    "roll": -24.47967529296875,
+                    "azimuth": 27.0599365234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954274,
+                "sensorPlayback": {
+                    "lightMeterValue": 1340,
+                    "pitch": -29.69970703125,
+                    "roll": -23.75946044921875,
+                    "azimuth": 0.1190185546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950993,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "rima arnaout’s Mac mini",
+                    "bluetoothDeviceRedacted": "60:33:4B:1A:5D:33",
+                    "bluetoothDeviceAddress": "60:33:4B:1A:5D:33"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943605,
+                "sensorPlayback": {
+                    "lightMeterValue": 215
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957329,
+                "sensorPlayback": {
+                    "pitch": -32.51953125,
+                    "roll": -18.359375,
+                    "azimuth": -12.5396728515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956291,
+                "sensorPlayback": {
+                    "acc_z": 8.284164428710938,
+                    "acc_y": 5.3076324462890625,
+                    "acc_x": 2.8494873046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950465,
+                "sensorPlayback": {
+                    "acc_z": 1.9015960693359375,
+                    "acc_y": 0.7734222412109375,
+                    "acc_x": -8.870468139648438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942796,
+                "sensorPlayback": {
+                    "acc_z": 2.5452880859375,
+                    "roll": -30.1788330078125,
+                    "azimuth": 17.51861572265625,
+                    "lightMeterValue": 746,
+                    "pitch": -5.999755859375,
+                    "acc_y": 3.5858306884765625,
+                    "acc_x": -8.954574584960938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941760,
+                "sensorPlayback": {
+                    "acc_z": 4.1538238525390625,
+                    "acc_y": 2.948883056640625,
+                    "acc_x": -9.290603637695312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959467,
+                "sensorPlayback": {
+                    "pitch": -20.03936767578125,
+                    "roll": -26.6998291015625,
+                    "azimuth": -18.719482421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947937,
+                "sensorPlayback": {
+                    "pitch": 3.95965576171875,
+                    "roll": -24.5391845703125,
+                    "azimuth": 25.799560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939888,
+                "sensorPlayback": {
+                    "IMEI": "355136056932604",
+                    "bluetoothDeviceName": "Nexus 4",
+                    "cellTowerId": "-1",
+                    "bluetoothDeviceAddress": "40:B0:FA:17:0F:DD"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949349,
+                "sensorPlayback": {
+                    "lightMeterValue": 449,
+                    "acc_z": 1.6143646240234375,
+                    "acc_y": -0.631591796875,
+                    "acc_x": -9.585372924804688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953143,
+                "sensorPlayback": {
+                    "acc_z": 2.3709259033203125,
+                    "acc_y": 8.102584838867188,
+                    "acc_x": 2.9905242919921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955083,
+                "sensorPlayback": {
+                    "acc_z": 8.059417724609375,
+                    "roll": -21.29974365234375,
+                    "azimuth": 1.49993896484375,
+                    "pitch": -30.77850341796875,
+                    "acc_y": 5.0654296875,
+                    "acc_x": 3.751251220703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945027,
+                "sensorPlayback": {
+                    "lightMeterValue": 1176
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952340,
+                "sensorPlayback": {
+                    "lightMeterValue": 668
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955182,
+                "sensorPlayback": {
+                    "lightMeterValue": 278
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947634,
+                "sensorPlayback": {
+                    "pitch": 4.07867431640625,
+                    "roll": -24.71923828125,
+                    "azimuth": 25.67901611328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954203,
+                "sensorPlayback": {
+                    "lightMeterValue": 10000,
+                    "acc_z": 5.1192626953125,
+                    "acc_y": 8.210891723632812,
+                    "acc_x": 1.381988525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948946,
+                "sensorPlayback": {
+                    "pitch": 3.839111328125,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.519775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943806,
+                "sensorPlayback": {
+                    "acc_z": -2.4693603515625,
+                    "roll": -16.259765625,
+                    "azimuth": 2.03857421875,
+                    "pitch": -13.5589599609375,
+                    "acc_y": 9.16680908203125,
+                    "acc_x": 1.9403839111328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951623,
+                "sensorPlayback": {
+                    "acc_z": 2.2511138916015625,
+                    "acc_y": 8.796066284179688,
+                    "acc_x": 4.498687744140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945026,
+                "sensorPlayback": {
+                    "acc_z": 2.4474945068359375,
+                    "acc_y": -0.4786529541015625,
+                    "acc_x": -9.840866088867188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946126,
+                "sensorPlayback": {
+                    "acc_z": 2.480224609375,
+                    "acc_y": -0.28961181640625,
+                    "acc_x": -9.653610229492188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939298,
+                "sensorPlayback": {
+                    "lightMeterValue": 1055,
+                    "acc_z": 8.242507934570312,
+                    "acc_y": 5.9158172607421875,
+                    "acc_x": 0.2177886962890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952941,
+                "sensorPlayback": {
+                    "acc_z": 3.35223388671875,
+                    "acc_y": 8.422149658203125,
+                    "acc_x": 2.3311614990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944509,
+                "sensorPlayback": {
+                    "acc_z": 1.453094482421875,
+                    "roll": -14.93988037109375,
+                    "azimuth": -9.2987060546875,
+                    "lightMeterValue": 220,
+                    "pitch": -20.159912109375,
+                    "acc_y": 7.9863433837890625,
+                    "acc_x": -3.500152587890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958856,
+                "sensorPlayback": {
+                    "lightMeterValue": 105,
+                    "acc_z": 9.713775634765625,
+                    "acc_y": 2.74774169921875,
+                    "acc_x": -0.143829345703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956192,
+                "sensorPlayback": {
+                    "acc_z": 7.9310760498046875,
+                    "acc_y": 3.682830810546875,
+                    "acc_x": 2.937164306640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939945,
+                "sensorPlayback": {
+                    "lightMeterValue": 1030,
+                    "pitch": -0.59967041015625,
+                    "roll": -38.1591796875,
+                    "azimuth": 4.13970947265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939398,
+                "sensorPlayback": {
+                    "acc_z": 7.6545562744140625,
+                    "acc_y": 6.1490936279296875,
+                    "acc_x": 0.5748443603515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948494,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "Peter Heery’s Mac mini",
+                    "bluetoothDeviceRedacted": "00:0D:93:19:44:89",
+                    "bluetoothDeviceAddress": "00:0D:93:19:44:89"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949249,
+                "sensorPlayback": {
+                    "pitch": 3.95965576171875,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.6387939453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955388,
+                "sensorPlayback": {
+                    "acc_z": 9.815338134765625,
+                    "acc_y": 4.870635986328125,
+                    "acc_x": 2.2315826416015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955293,
+                "sensorPlayback": {
+                    "pitch": -31.55975341796875,
+                    "roll": -19.9798583984375,
+                    "azimuth": 1.07879638671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953267,
+                "sensorPlayback": {
+                    "acc_z": 1.703033447265625,
+                    "acc_y": 8.276153564453125,
+                    "acc_x": 3.8657073974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942015,
+                "sensorPlayback": {
+                    "pitch": -7.67974853515625,
+                    "roll": -33.1787109375,
+                    "azimuth": -4.85992431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941762,
+                "sensorPlayback": {
+                    "pitch": -7.67974853515625,
+                    "roll": -33.1787109375,
+                    "azimuth": -4.85992431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945627,
+                "sensorPlayback": {
+                    "lightMeterValue": 1218,
+                    "acc_z": 1.6544342041015625,
+                    "acc_y": -0.1172332763671875,
+                    "acc_x": -9.848602294921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950056,
+                "sensorPlayback": {
+                    "lightMeterValue": 441,
+                    "pitch": 4.07867431640625,
+                    "roll": -24.47967529296875,
+                    "azimuth": 27.0599365234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944005,
+                "sensorPlayback": {
+                    "lightMeterValue": 301,
+                    "pitch": -16.0797119140625,
+                    "roll": -15.23895263671875,
+                    "azimuth": -3.3599853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941046,
+                "sensorPlayback": {
+                    "acc_z": 5.898040771484375,
+                    "acc_y": 7.1492462158203125,
+                    "acc_x": -0.603240966796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940044,
+                "sensorPlayback": {
+                    "acc_z": 8.437698364257812,
+                    "acc_y": 6.2062225341796875,
+                    "acc_x": 0.6545867919921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947936,
+                "sensorPlayback": {
+                    "lightMeterValue": 432,
+                    "acc_z": 1.663360595703125,
+                    "acc_y": -0.6032257080078125,
+                    "acc_x": -9.630996704101562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953869,
+                "sensorPlayback": {
+                    "lightMeterValue": 964,
+                    "acc_z": 6.8595123291015625,
+                    "acc_y": 7.449371337890625,
+                    "acc_x": 4.332061767578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949851,
+                "sensorPlayback": {
+                    "acc_z": 1.4501190185546875,
+                    "acc_y": -0.6427001953125,
+                    "acc_x": -9.577835083007812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941761,
+                "sensorPlayback": {
+                    "lightMeterValue": 818
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949248,
+                "sensorPlayback": {
+                    "lightMeterValue": 442,
+                    "acc_z": 1.670501708984375,
+                    "acc_y": -0.65777587890625,
+                    "acc_x": -9.6427001953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940344,
+                "sensorPlayback": {
+                    "acc_z": 9.162521362304688,
+                    "acc_y": 5.3742828369140625,
+                    "acc_x": -1.3722991943359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952737,
+                "sensorPlayback": {
+                    "acc_z": 3.25146484375,
+                    "acc_y": 9.174346923828125,
+                    "acc_x": 3.7921142578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953369,
+                "sensorPlayback": {
+                    "acc_z": 2.2757110595703125,
+                    "acc_y": 8.2662353515625,
+                    "acc_x": 4.91802978515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946729,
+                "sensorPlayback": {
+                    "acc_z": 1.852203369140625,
+                    "acc_y": -0.6500396728515625,
+                    "acc_x": -9.62603759765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949147,
+                "sensorPlayback": {
+                    "acc_z": 1.601470947265625,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.57928466796875,
+                    "lightMeterValue": 464,
+                    "pitch": 3.71856689453125,
+                    "acc_y": -0.60540771484375,
+                    "acc_x": -9.602035522460938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953469,
+                "sensorPlayback": {
+                    "lightMeterValue": 1076,
+                    "acc_z": 2.1900177001953125,
+                    "acc_y": 8.485427856445312,
+                    "acc_x": 6.9943084716796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948440,
+                "sensorPlayback": {
+                    "lightMeterValue": 436,
+                    "pitch": 4.0191650390625,
+                    "roll": -24.05853271484375,
+                    "azimuth": 26.21917724609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948138,
+                "sensorPlayback": {
+                    "acc_z": 1.610198974609375,
+                    "acc_y": -0.63873291015625,
+                    "acc_x": -9.59906005859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950263,
+                "sensorPlayback": {
+                    "pitch": 4.0191650390625,
+                    "roll": -24.359130859375,
+                    "azimuth": 27.3590087890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942597,
+                "sensorPlayback": {
+                    "acc_z": 2.8946075439453125,
+                    "acc_y": 4.664337158203125,
+                    "acc_x": -8.3541259765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949448,
+                "sensorPlayback": {
+                    "lightMeterValue": 449,
+                    "acc_z": 1.6143646240234375,
+                    "acc_y": -0.631591796875,
+                    "acc_x": -9.585372924804688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955591,
+                "sensorPlayback": {
+                    "pitch": -32.6995849609375,
+                    "roll": -18.77899169921875,
+                    "azimuth": -0.89874267578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940046,
+                "sensorPlayback": {
+                    "pitch": -0.6591796875,
+                    "roll": -37.6190185546875,
+                    "azimuth": 3.53851318359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942499,
+                "sensorPlayback": {
+                    "pitch": -6.95953369140625,
+                    "roll": -31.439208984375,
+                    "azimuth": 10.13946533203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947236,
+                "sensorPlayback": {
+                    "lightMeterValue": 471,
+                    "acc_z": 1.807373046875,
+                    "acc_y": -0.655792236328125,
+                    "acc_x": -9.720062255859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955489,
+                "sensorPlayback": {
+                    "acc_z": 8.172088623046875,
+                    "acc_y": 4.6919097900390625,
+                    "acc_x": 1.041595458984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943304,
+                "sensorPlayback": {
+                    "acc_z": 3.8919830322265625,
+                    "acc_y": 1.23382568359375,
+                    "acc_x": -11.373626708984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958544,
+                "sensorPlayback": {
+                    "lightMeterValue": 100
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957528,
+                "sensorPlayback": {
+                    "pitch": -32.09991455078125,
+                    "roll": -18.719482421875,
+                    "azimuth": -12.298583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954273,
+                "sensorPlayback": {
+                    "lightMeterValue": 10000,
+                    "acc_z": 5.1192626953125,
+                    "acc_y": 8.210891723632812,
+                    "acc_x": 1.381988525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957234,
+                "sensorPlayback": {
+                    "acc_z": 8.113372802734375,
+                    "acc_y": 3.235321044921875,
+                    "acc_x": 1.3706817626953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955896,
+                "sensorPlayback": {
+                    "lightMeterValue": 219,
+                    "acc_z": 7.6486053466796875,
+                    "acc_y": 6.031463623046875,
+                    "acc_x": 0.877349853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944734,
+                "sensorPlayback": {
+                    "acc_z": 1.9119110107421875,
+                    "acc_y": 1.2824249267578125,
+                    "acc_x": -9.060104370117188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950906,
+                "sensorPlayback": {
+                    "pitch": -6.89849853515625,
+                    "roll": -22.979736328125,
+                    "azimuth": 13.85955810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950566,
+                "sensorPlayback": {
+                    "acc_z": 1.1751861572265625,
+                    "acc_y": 6.7287139892578125,
+                    "acc_x": -1.3881683349609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955389,
+                "sensorPlayback": {
+                    "lightMeterValue": 234
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950366,
+                "sensorPlayback": {
+                    "lightMeterValue": 441
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951928,
+                "sensorPlayback": {
+                    "lightMeterValue": 424
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944208,
+                "sensorPlayback": {
+                    "lightMeterValue": 220,
+                    "pitch": -18.29986572265625,
+                    "roll": -14.8193359375,
+                    "azimuth": -7.379150390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956398,
+                "sensorPlayback": {
+                    "pitch": -33.7799072265625,
+                    "roll": -17.4591064453125,
+                    "azimuth": -10.43853759765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951422,
+                "sensorPlayback": {
+                    "lightMeterValue": 202,
+                    "pitch": -13.13934326171875,
+                    "roll": -24.1790771484375,
+                    "azimuth": 1.9195556640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953570,
+                "sensorPlayback": {
+                    "lightMeterValue": 802,
+                    "pitch": -30.059814453125,
+                    "roll": -24.359130859375,
+                    "azimuth": -4.61883544921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947432,
+                "sensorPlayback": {
+                    "acc_z": 1.674468994140625,
+                    "roll": -24.65972900390625,
+                    "azimuth": 25.37994384765625,
+                    "lightMeterValue": 451,
+                    "pitch": 4.25872802734375,
+                    "acc_y": -0.5960845947265625,
+                    "acc_x": -9.412002563476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943402,
+                "sensorPlayback": {
+                    "acc_z": 5.800445556640625,
+                    "acc_y": 5.8479766845703125,
+                    "acc_x": -4.341217041015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947237,
+                "sensorPlayback": {
+                    "acc_z": 1.6818084716796875,
+                    "roll": -24.83978271484375,
+                    "azimuth": 25.079345703125,
+                    "lightMeterValue": 451,
+                    "pitch": 4.07867431640625,
+                    "acc_y": -0.6460723876953125,
+                    "acc_x": -9.492141723632812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943104,
+                "sensorPlayback": {
+                    "lightMeterValue": 1043
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957732,
+                "sensorPlayback": {
+                    "pitch": -31.439208984375,
+                    "roll": -19.31915283203125,
+                    "azimuth": -11.8194580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942096,
+                "sensorPlayback": {
+                    "lightMeterValue": 623,
+                    "pitch": -8.03985595703125,
+                    "roll": -32.03887939453125,
+                    "azimuth": -0.53863525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945328,
+                "sensorPlayback": {
+                    "pitch": -13.67950439453125,
+                    "roll": -20.39947509765625,
+                    "azimuth": 4.7393798828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953042,
+                "sensorPlayback": {
+                    "lightMeterValue": 638
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949548,
+                "sensorPlayback": {
+                    "acc_z": 1.5449371337890625,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.81884765625,
+                    "pitch": 3.89862060546875,
+                    "acc_y": -0.626434326171875,
+                    "acc_x": -9.621475219726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940452,
+                "sensorPlayback": {
+                    "lightMeterValue": 637,
+                    "pitch": 0.1190185546875,
+                    "roll": -37.67852783203125,
+                    "azimuth": -0.8392333984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959364,
+                "sensorPlayback": {
+                    "lightMeterValue": 100,
+                    "pitch": -23.21929931640625,
+                    "roll": -24.8992919921875,
+                    "azimuth": -17.69866943359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944738,
+                "sensorPlayback": {
+                    "lightMeterValue": 861,
+                    "pitch": -21.05865478515625,
+                    "roll": -14.75982666015625,
+                    "azimuth": -9.11865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956799,
+                "sensorPlayback": {
+                    "acc_z": 8.35894775390625,
+                    "acc_y": 3.447174072265625,
+                    "acc_x": -0.173187255859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945428,
+                "sensorPlayback": {
+                    "pitch": -10.49957275390625,
+                    "roll": -25.2593994140625,
+                    "azimuth": 12.05902099609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945731,
+                "sensorPlayback": {
+                    "lightMeterValue": 1159,
+                    "acc_z": 1.388824462890625,
+                    "acc_y": -0.0819244384765625,
+                    "acc_x": -9.42926025390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952739,
+                "sensorPlayback": {
+                    "pitch": -25.85906982421875,
+                    "roll": -27.29949951171875,
+                    "azimuth": -10.49957275390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955589,
+                "sensorPlayback": {
+                    "acc_z": 7.6196441650390625,
+                    "acc_y": 4.0690460205078125,
+                    "acc_x": 0.64129638671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943105,
+                "sensorPlayback": {
+                    "pitch": -6.1798095703125,
+                    "roll": -29.4586181640625,
+                    "azimuth": 19.07958984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940850,
+                "sensorPlayback": {
+                    "pitch": -3.41949462890625,
+                    "roll": -35.8795166015625,
+                    "azimuth": -5.57861328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954594,
+                "sensorPlayback": {
+                    "pitch": -30.059814453125,
+                    "roll": -22.85919189453125,
+                    "azimuth": 1.43890380859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956800,
+                "sensorPlayback": {
+                    "lightMeterValue": 454,
+                    "pitch": -34.259033203125,
+                    "roll": -16.7999267578125,
+                    "azimuth": -12.23907470703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959162,
+                "sensorPlayback": {
+                    "acc_z": 10.674652099609375,
+                    "acc_y": 3.09765625,
+                    "acc_x": -0.0543670654296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939401,
+                "sensorPlayback": {
+                    "lightMeterValue": 1055,
+                    "pitch": -2.6397705078125,
+                    "roll": -37.01934814453125,
+                    "azimuth": 0.53863525390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955490,
+                "sensorPlayback": {
+                    "lightMeterValue": 234
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939400,
+                "sensorPlayback": {
+                    "lightMeterValue": 1055
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953769,
+                "sensorPlayback": {
+                    "lightMeterValue": 964,
+                    "pitch": -30.11932373046875,
+                    "roll": -24.41864013671875,
+                    "azimuth": -4.3792724609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947131,
+                "sensorPlayback": {
+                    "pitch": 3.77960205078125,
+                    "roll": -24.8992919921875,
+                    "azimuth": 25.13885498046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952539,
+                "sensorPlayback": {
+                    "acc_z": 1.7359619140625,
+                    "acc_y": 8.166656494140625,
+                    "acc_x": 3.3509521484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956496,
+                "sensorPlayback": {
+                    "lightMeterValue": 215,
+                    "acc_z": 9.693145751953125,
+                    "acc_y": 5.893798828125,
+                    "acc_x": 0.60955810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950769,
+                "sensorPlayback": {
+                    "lightMeterValue": 133,
+                    "acc_z": -1.4813079833984375,
+                    "acc_y": 9.788284301757812,
+                    "acc_x": 4.1386566162109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957236,
+                "sensorPlayback": {
+                    "pitch": -33.11920166015625,
+                    "roll": -17.93975830078125,
+                    "azimuth": -12.77923583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943905,
+                "sensorPlayback": {
+                    "lightMeterValue": 301
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940143,
+                "sensorPlayback": {
+                    "acc_z": 8.437698364257812,
+                    "acc_y": 6.2062225341796875,
+                    "acc_x": 0.6545867919921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954246,
+                "sensorPlayback": {
+                    "pitch": -29.8187255859375,
+                    "roll": -24.23858642578125,
+                    "azimuth": -1.79901123046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947633,
+                "sensorPlayback": {
+                    "lightMeterValue": 408,
+                    "acc_z": 1.7667083740234375,
+                    "acc_y": -0.537567138671875,
+                    "acc_x": -9.527053833007812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948337,
+                "sensorPlayback": {
+                    "acc_z": 1.67724609375,
+                    "acc_y": -0.568511962890625,
+                    "acc_x": -9.583389282226562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954773,
+                "sensorPlayback": {
+                    "acc_z": 10.294784545898438,
+                    "roll": -22.198486328125,
+                    "azimuth": 2.03857421875,
+                    "lightMeterValue": 1610,
+                    "pitch": -30.2398681640625,
+                    "acc_y": 4.7700653076171875,
+                    "acc_x": 1.1124114990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949955,
+                "sensorPlayback": {
+                    "acc_z": 1.6012725830078125,
+                    "acc_y": -0.6877288818359375,
+                    "acc_x": -9.632583618164062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949449,
+                "sensorPlayback": {
+                    "acc_z": 1.5449371337890625,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.81884765625,
+                    "pitch": 3.89862060546875,
+                    "acc_y": -0.626434326171875,
+                    "acc_x": -9.621475219726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958262,
+                "sensorPlayback": {
+                    "lightMeterValue": 93
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943102,
+                "sensorPlayback": {
+                    "acc_z": 3.0673828125,
+                    "acc_y": 1.646820068359375,
+                    "acc_x": -8.911529541015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943403,
+                "sensorPlayback": {
+                    "lightMeterValue": 757,
+                    "pitch": -9.3597412109375,
+                    "roll": -27.29949951171875,
+                    "azimuth": 14.93988037109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952942,
+                "sensorPlayback": {
+                    "lightMeterValue": 638,
+                    "pitch": -27.239990234375,
+                    "roll": -26.39923095703125,
+                    "azimuth": -8.69903564453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948646,
+                "sensorPlayback": {
+                    "lightMeterValue": 436,
+                    "pitch": 4.0191650390625,
+                    "roll": -23.9990234375,
+                    "azimuth": 26.2786865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939499,
+                "sensorPlayback": {
+                    "lightMeterValue": 1055
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957853,
+                "sensorPlayback": {
+                    "acc_z": 8.9468994140625,
+                    "acc_y": 3.075042724609375,
+                    "acc_x": -0.3415985107421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955792,
+                "sensorPlayback": {
+                    "pitch": -33.29925537109375,
+                    "roll": -17.87872314453125,
+                    "azimuth": -3.2989501953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956601,
+                "sensorPlayback": {
+                    "pitch": -34.0789794921875,
+                    "roll": -16.97998046875,
+                    "azimuth": -11.75994873046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944820,
+                "sensorPlayback": {
+                    "lightMeterValue": 861,
+                    "pitch": -20.57952880859375,
+                    "roll": -14.33868408203125,
+                    "azimuth": -8.45947265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956293,
+                "sensorPlayback": {
+                    "pitch": -33.7799072265625,
+                    "roll": -17.4591064453125,
+                    "azimuth": -10.43853759765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944819,
+                "sensorPlayback": {
+                    "lightMeterValue": 861
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942596,
+                "sensorPlayback": {
+                    "lightMeterValue": 642
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953870,
+                "sensorPlayback": {
+                    "acc_z": 6.8595123291015625,
+                    "roll": -24.359130859375,
+                    "azimuth": -3.3599853515625,
+                    "lightMeterValue": 964,
+                    "pitch": -29.638671875,
+                    "acc_y": 7.449371337890625,
+                    "acc_x": 4.332061767578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161946929,
+                "sensorPlayback": {
+                    "lightMeterValue": 439,
+                    "acc_z": 1.6631622314453125,
+                    "acc_y": -0.681182861328125,
+                    "acc_x": -9.687332153320312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958441,
+                "sensorPlayback": {
+                    "acc_z": 8.51446533203125,
+                    "acc_y": 3.7802276611328125,
+                    "acc_x": -1.2288818359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953368,
+                "sensorPlayback": {
+                    "lightMeterValue": 1076,
+                    "acc_z": 2.1900177001953125,
+                    "acc_y": 8.485427856445312,
+                    "acc_x": 6.9943084716796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958647,
+                "sensorPlayback": {
+                    "lightMeterValue": 105,
+                    "acc_z": 9.713775634765625,
+                    "acc_y": 2.74774169921875,
+                    "acc_x": -0.143829345703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944607,
+                "sensorPlayback": {
+                    "acc_z": 3.1419677734375,
+                    "acc_y": 3.3640594482421875,
+                    "acc_x": -8.368606567382812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949752,
+                "sensorPlayback": {
+                    "acc_z": 1.5449371337890625,
+                    "roll": -24.359130859375,
+                    "azimuth": 27.0599365234375,
+                    "lightMeterValue": 448,
+                    "pitch": 4.07867431640625,
+                    "acc_y": -0.626434326171875,
+                    "acc_x": -9.621475219726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951109,
+                "sensorPlayback": {
+                    "lightMeterValue": 154,
+                    "acc_z": 4.4164581298828125,
+                    "acc_y": 9.1676025390625,
+                    "acc_x": 3.8109588623046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951727,
+                "sensorPlayback": {
+                    "acc_z": 1.9527740478515625,
+                    "roll": -25.55999755859375,
+                    "azimuth": -8.45947265625,
+                    "lightMeterValue": 533,
+                    "pitch": -19.439697265625,
+                    "acc_y": 8.377517700195312,
+                    "acc_x": 7.31585693359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956700,
+                "sensorPlayback": {
+                    "lightMeterValue": 454,
+                    "pitch": -34.259033203125,
+                    "roll": -16.7999267578125,
+                    "azimuth": -12.23907470703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950057,
+                "sensorPlayback": {
+                    "lightMeterValue": 440
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941147,
+                "sensorPlayback": {
+                    "pitch": -4.85992431640625,
+                    "roll": -35.27984619140625,
+                    "azimuth": -7.79876708984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945827,
+                "sensorPlayback": {
+                    "lightMeterValue": 1159,
+                    "acc_z": 1.388824462890625,
+                    "acc_y": -0.0819244384765625,
+                    "acc_x": -9.42926025390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945227,
+                "sensorPlayback": {
+                    "acc_z": 1.582427978515625,
+                    "acc_y": -0.4949188232421875,
+                    "acc_x": -9.427276611328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942897,
+                "sensorPlayback": {
+                    "acc_z": 2.5452880859375,
+                    "roll": -30.1788330078125,
+                    "azimuth": 17.51861572265625,
+                    "lightMeterValue": 746,
+                    "pitch": -5.999755859375,
+                    "acc_y": 3.5858306884765625,
+                    "acc_x": -8.954574584960938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942195,
+                "sensorPlayback": {
+                    "lightMeterValue": 623,
+                    "pitch": -7.79876708984375,
+                    "roll": -31.6192626953125,
+                    "azimuth": 4.79888916015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951927,
+                "sensorPlayback": {
+                    "acc_z": 2.1231689453125,
+                    "acc_y": 7.9712677001953125,
+                    "acc_x": 4.6432952880859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943506,
+                "sensorPlayback": {
+                    "lightMeterValue": 757,
+                    "pitch": -9.3597412109375,
+                    "roll": -27.29949951171875,
+                    "azimuth": 14.93988037109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958858,
+                "sensorPlayback": {
+                    "pitch": -27.3590087890625,
+                    "roll": -22.259521484375,
+                    "azimuth": -13.9190673828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942297,
+                "sensorPlayback": {
+                    "lightMeterValue": 623,
+                    "pitch": -7.79876708984375,
+                    "roll": -31.6192626953125,
+                    "azimuth": 4.79888916015625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939498,
+                "sensorPlayback": {
+                    "acc_z": 8.173477172851562,
+                    "acc_y": 6.1181488037109375,
+                    "acc_x": 0.3034820556640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944207,
+                "sensorPlayback": {
+                    "lightMeterValue": 173,
+                    "acc_z": 3.6059417724609375,
+                    "acc_y": 10.322280883789062,
+                    "acc_x": 0.816253662109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949146,
+                "sensorPlayback": {
+                    "lightMeterValue": 442,
+                    "acc_z": 1.670501708984375,
+                    "acc_y": -0.65777587890625,
+                    "acc_x": -9.6427001953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945928,
+                "sensorPlayback": {
+                    "lightMeterValue": 1098,
+                    "acc_z": 1.8337554931640625,
+                    "acc_y": -0.0680389404296875,
+                    "acc_x": -9.535980224609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952639,
+                "sensorPlayback": {
+                    "lightMeterValue": 622
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955491,
+                "sensorPlayback": {
+                    "pitch": -32.6995849609375,
+                    "roll": -18.77899169921875,
+                    "azimuth": -0.89874267578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953768,
+                "sensorPlayback": {
+                    "acc_z": 3.7574920654296875,
+                    "acc_y": 6.95703125,
+                    "acc_x": 3.452911376953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940282,
+                "sensorPlayback": {
+                    "lightMeterValue": 637,
+                    "pitch": 0.299072265625,
+                    "roll": -37.67852783203125,
+                    "azimuth": 3.6590576171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952843,
+                "sensorPlayback": {
+                    "lightMeterValue": 638,
+                    "pitch": -27.239990234375,
+                    "roll": -26.39923095703125,
+                    "azimuth": -8.69903564453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939881,
+                "sensorPlayback": {
+                    "gps_coords": "[37.7649891,-122.4543543]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940645,
+                "sensorPlayback": {
+                    "acc_z": 8.249847412109375,
+                    "roll": -36.1785888671875,
+                    "azimuth": -7.43865966796875,
+                    "pitch": -2.2186279296875,
+                    "acc_y": 6.8818511962890625,
+                    "acc_x": 1.0068817138671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956292,
+                "sensorPlayback": {
+                    "lightMeterValue": 230
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958761,
+                "sensorPlayback": {
+                    "lightMeterValue": 105,
+                    "acc_z": 9.713775634765625,
+                    "acc_y": 2.74774169921875,
+                    "acc_x": -0.143829345703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959164,
+                "sensorPlayback": {
+                    "lightMeterValue": 100,
+                    "pitch": -23.21929931640625,
+                    "roll": -24.8992919921875,
+                    "azimuth": -17.69866943359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947750,
+                "sensorPlayback": {
+                    "pitch": 4.07867431640625,
+                    "roll": -24.71923828125,
+                    "azimuth": 25.67901611328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957016,
+                "sensorPlayback": {
+                    "acc_z": 7.392120361328125,
+                    "roll": -17.15850830078125,
+                    "azimuth": -12.4786376953125,
+                    "pitch": -33.89892578125,
+                    "acc_y": 4.4459381103515625,
+                    "acc_x": -0.1162567138671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940145,
+                "sensorPlayback": {
+                    "pitch": -0.6591796875,
+                    "roll": -37.6190185546875,
+                    "azimuth": 3.53851318359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955081,
+                "sensorPlayback": {
+                    "acc_z": 8.269882202148438,
+                    "acc_y": 4.62347412109375,
+                    "acc_x": 4.1033477783203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955897,
+                "sensorPlayback": {
+                    "pitch": -33.65936279296875,
+                    "roll": -17.57965087890625,
+                    "azimuth": -5.6396484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951110,
+                "sensorPlayback": {
+                    "lightMeterValue": 190,
+                    "pitch": -10.13946533203125,
+                    "roll": -23.4588623046875,
+                    "azimuth": 7.85980224609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948037,
+                "sensorPlayback": {
+                    "acc_z": 1.73516845703125,
+                    "acc_y": -0.60858154296875,
+                    "acc_x": -9.59033203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955695,
+                "sensorPlayback": {
+                    "pitch": -33.29925537109375,
+                    "roll": -17.87872314453125,
+                    "azimuth": -3.2989501953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941863,
+                "sensorPlayback": {
+                    "acc_z": 1.961700439453125,
+                    "acc_y": 1.0650177001953125,
+                    "acc_x": -9.43084716796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947839,
+                "sensorPlayback": {
+                    "pitch": 3.95965576171875,
+                    "roll": -24.5391845703125,
+                    "azimuth": 25.799560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947745,
+                "sensorPlayback": {
+                    "acc_z": 1.683990478515625,
+                    "acc_y": -0.5583953857421875,
+                    "acc_x": -9.503646850585938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955181,
+                "sensorPlayback": {
+                    "acc_z": 8.059417724609375,
+                    "roll": -21.29974365234375,
+                    "azimuth": 1.49993896484375,
+                    "pitch": -30.77850341796875,
+                    "acc_y": 5.0654296875,
+                    "acc_x": 3.751251220703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951014,
+                "sensorPlayback": {
+                    "lightMeterValue": 154,
+                    "acc_z": 4.4164581298828125,
+                    "acc_y": 9.1676025390625,
+                    "acc_x": 3.8109588623046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945028,
+                "sensorPlayback": {
+                    "lightMeterValue": 1176,
+                    "pitch": -16.85943603515625,
+                    "roll": -15.23895263671875,
+                    "azimuth": -2.33917236328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945929,
+                "sensorPlayback": {
+                    "pitch": -2.81982421875,
+                    "roll": -25.9185791015625,
+                    "azimuth": 22.85919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955692,
+                "sensorPlayback": {
+                    "lightMeterValue": 219,
+                    "acc_z": 7.6486053466796875,
+                    "acc_y": 6.031463623046875,
+                    "acc_x": 0.877349853515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940848,
+                "sensorPlayback": {
+                    "acc_z": 5.9982147216796875,
+                    "acc_y": 7.8923187255859375,
+                    "acc_x": 0.2931671142578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955291,
+                "sensorPlayback": {
+                    "lightMeterValue": 278
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952239,
+                "sensorPlayback": {
+                    "lightMeterValue": 573
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957730,
+                "sensorPlayback": {
+                    "lightMeterValue": 83,
+                    "acc_z": 9.267654418945312,
+                    "acc_y": 4.925384521484375,
+                    "acc_x": -0.6062164306640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954372,
+                "sensorPlayback": {
+                    "acc_z": 8.851287841796875,
+                    "acc_y": 5.5480499267578125,
+                    "acc_x": 2.522186279296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945426,
+                "sensorPlayback": {
+                    "acc_z": 1.2656402587890625,
+                    "acc_y": -0.151947021484375,
+                    "acc_x": -9.645675659179688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161939598,
+                "sensorPlayback": {
+                    "lightMeterValue": 1008,
+                    "pitch": -2.2186279296875,
+                    "roll": -37.799072265625,
+                    "azimuth": 2.33917236328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952440,
+                "sensorPlayback": {
+                    "lightMeterValue": 668
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161947029,
+                "sensorPlayback": {
+                    "lightMeterValue": 439,
+                    "acc_z": 1.6631622314453125,
+                    "acc_y": -0.681182861328125,
+                    "acc_x": -9.687332153320312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940948,
+                "sensorPlayback": {
+                    "lightMeterValue": 235
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948945,
+                "sensorPlayback": {
+                    "lightMeterValue": 464,
+                    "acc_z": 1.601470947265625,
+                    "acc_y": -0.60540771484375,
+                    "acc_x": -9.602035522460938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954201,
+                "sensorPlayback": {
+                    "acc_z": 7.3470916748046875,
+                    "acc_y": 7.6094512939453125,
+                    "acc_x": 1.1314544677734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952842,
+                "sensorPlayback": {
+                    "acc_z": 3.51092529296875,
+                    "acc_y": 9.34930419921875,
+                    "acc_x": 3.6304473876953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954978,
+                "sensorPlayback": {
+                    "lightMeterValue": 423
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942398,
+                "sensorPlayback": {
+                    "lightMeterValue": 583,
+                    "acc_z": 2.36041259765625,
+                    "acc_y": 3.7100067138671875,
+                    "acc_x": -8.508255004882812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942194,
+                "sensorPlayback": {
+                    "acc_z": 2.677398681640625,
+                    "acc_y": 3.6429595947265625,
+                    "acc_x": -7.49481201171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959071,
+                "sensorPlayback": {
+                    "lightMeterValue": 104
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945628,
+                "sensorPlayback": {
+                    "pitch": -6.658935546875,
+                    "roll": -25.9796142578125,
+                    "azimuth": 18.359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161959233,
+                "sensorPlayback": {
+                    "cellTowerId": "-1"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949852,
+                "sensorPlayback": {
+                    "pitch": 4.07867431640625,
+                    "roll": -24.359130859375,
+                    "azimuth": 26.9989013671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950262,
+                "sensorPlayback": {
+                    "lightMeterValue": 441,
+                    "acc_z": 1.8182830810546875,
+                    "acc_y": -2.60015869140625,
+                    "acc_x": -10.308807373046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940246,
+                "sensorPlayback": {
+                    "acc_z": 7.5962371826171875,
+                    "acc_y": 6.2716827392578125,
+                    "acc_x": 0.0749664306640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952841,
+                "sensorPlayback": {
+                    "lightMeterValue": 524
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161957627,
+                "sensorPlayback": {
+                    "acc_z": 10.069839477539062,
+                    "acc_y": 4.504852294921875,
+                    "acc_x": -0.3733367919921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944608,
+                "sensorPlayback": {
+                    "lightMeterValue": 439,
+                    "acc_z": 3.0834503173828125,
+                    "acc_y": 6.0889892578125,
+                    "acc_x": -5.3360137939453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952136,
+                "sensorPlayback": {
+                    "acc_z": 2.456024169921875,
+                    "acc_y": 8.089889526367188,
+                    "acc_x": 3.6522674560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950905,
+                "sensorPlayback": {
+                    "lightMeterValue": 133,
+                    "acc_z": -1.4813079833984375,
+                    "acc_y": 9.788284301757812,
+                    "acc_x": 4.1386566162109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942396,
+                "sensorPlayback": {
+                    "acc_z": 2.6529998779296875,
+                    "acc_y": 4.3677825927734375,
+                    "acc_x": -8.37158203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940248,
+                "sensorPlayback": {
+                    "lightMeterValue": 637,
+                    "pitch": 0.1190185546875,
+                    "roll": -37.67852783203125,
+                    "azimuth": -0.8392333984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161958442,
+                "sensorPlayback": {
+                    "lightMeterValue": 93,
+                    "pitch": -28.73992919921875,
+                    "roll": -21.47979736328125,
+                    "azimuth": -12.298583984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941048,
+                "sensorPlayback": {
+                    "pitch": -4.85992431640625,
+                    "roll": -35.27984619140625,
+                    "azimuth": -7.79876708984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161952034,
+                "sensorPlayback": {
+                    "pitch": -24.41864013671875,
+                    "roll": -25.738525390625,
+                    "azimuth": -16.67938232421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161949046,
+                "sensorPlayback": {
+                    "acc_z": 1.601470947265625,
+                    "roll": -24.23858642578125,
+                    "azimuth": 26.57928466796875,
+                    "lightMeterValue": 464,
+                    "pitch": 3.71856689453125,
+                    "acc_y": -0.60540771484375,
+                    "acc_x": -9.602035522460938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161955082,
+                "sensorPlayback": {
+                    "lightMeterValue": 423
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941448,
+                "sensorPlayback": {
+                    "lightMeterValue": 776
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954573,
+                "sensorPlayback": {
+                    "acc_z": 6.4727020263671875,
+                    "acc_y": 5.19635009765625,
+                    "acc_x": 2.2510223388671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953043,
+                "sensorPlayback": {
+                    "pitch": -28.67889404296875,
+                    "roll": -25.55999755859375,
+                    "azimuth": -6.719970703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941449,
+                "sensorPlayback": {
+                    "lightMeterValue": 776,
+                    "pitch": -6.59942626953125,
+                    "roll": -34.67864990234375,
+                    "azimuth": -8.03985595703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161953268,
+                "sensorPlayback": {
+                    "lightMeterValue": 1041,
+                    "pitch": -29.8797607421875,
+                    "roll": -24.59869384765625,
+                    "azimuth": -5.218505859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161945327,
+                "sensorPlayback": {
+                    "lightMeterValue": 1228,
+                    "acc_z": 1.6512603759765625,
+                    "acc_y": -0.395538330078125,
+                    "acc_x": -9.59429931640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161943724,
+                "sensorPlayback": {
+                    "lightMeterValue": 488
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942598,
+                "sensorPlayback": {
+                    "lightMeterValue": 551,
+                    "pitch": -6.35986328125,
+                    "roll": -30.95855712890625,
+                    "azimuth": 14.8193359375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161950668,
+                "sensorPlayback": {
+                    "lightMeterValue": 230
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161954977,
+                "sensorPlayback": {
+                    "acc_z": 8.702713012695312,
+                    "acc_y": 3.612213134765625,
+                    "acc_x": 3.567169189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956194,
+                "sensorPlayback": {
+                    "lightMeterValue": 230
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161942695,
+                "sensorPlayback": {
+                    "acc_z": 2.0755615234375,
+                    "acc_y": 3.77288818359375,
+                    "acc_x": -8.662582397460938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161944106,
+                "sensorPlayback": {
+                    "lightMeterValue": 173,
+                    "acc_z": 3.6059417724609375,
+                    "acc_y": 10.322280883789062,
+                    "acc_x": 0.816253662109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161956497,
+                "sensorPlayback": {
+                    "pitch": -34.0789794921875,
+                    "roll": -16.97998046875,
+                    "azimuth": -11.75994873046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161940949,
+                "sensorPlayback": {
+                    "pitch": -3.41949462890625,
+                    "roll": -35.8795166015625,
+                    "azimuth": -5.57861328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161948845,
+                "sensorPlayback": {
+                    "acc_z": 1.5360107421875,
+                    "acc_y": -0.58319091796875,
+                    "acc_x": -9.618698120117188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161951524,
+                "sensorPlayback": {
+                    "lightMeterValue": 217,
+                    "pitch": -16.13922119140625,
+                    "roll": -24.95880126953125,
+                    "azimuth": -3.47900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381161941349,
+                "sensorPlayback": {
+                    "lightMeterValue": 455,
+                    "acc_z": 8.394058227539062,
+                    "acc_y": 4.4491119384765625,
+                    "acc_x": -6.7523345947265625
+                },
+                "captureType": 271
+            }
+        ]
+    },
+    "intent": {
+        "ownershipType": 400,
+        "alias": "wendy",
+        "intendedDestination": "International Bar Association",
+        "pgpKeyFingerprint": "3ba450dd417b58c86c4b68244dae4bc672139b1e"
+    },
+    "genealogy": {
+        "localMediaPath": "/610e372f67c7ce45d9fe34177bfc40f0b452a681",
+        "dateCreated": 1381161951140,
+        "hashes": [
+            "e893c12c7464786fc56ff2fa6c83104a"
+        ],
+        "createdOnDevice": "3ba450dd417b58c86c4b68244dae4bc672139b1e"
+    }
+}
