@@ -4,16 +4,7 @@ var map;
 
 var sensorData=new Array(); 
 
-$(function () {
-  
-  //  loadMedia("../sample/sample.jpg");
-   // loadMap();
 
-    parseJ3M("../sample/samplej3m2.json");
-  //  parseJ3M("http://icdev.guardianproject.info/media/78b23b6586db88a463ccea32a10d63e2/hODJwiNzGxwNFFGhSCdIEDVTlw.json");
-
-   
-});
 
 function loadMap (lat,lon) {
   // body...
