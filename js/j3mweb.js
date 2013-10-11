@@ -154,13 +154,14 @@ function parseJ3M (path)
      addChart("pitch","",sensorData["pitch"]);
       addChart("azimuth","",sensorData["azimuth"]);
 
-      addChart("acc_x","",sensorData["acc_x"]);
-      addChart("acc_y","",sensorData["acc_y"]);
-      addChart("acc_z","",sensorData["acc_z"]);
+      addMultiChart("Accelerometer","",sensorData["acc_x"],sensorData["acc_y"],sensorData["acc_z"]);
 
+    sensorData["bluetoothDeviceName"].sort(function(a,b){return a.timestamp-b.timestamp});
       addList("bluetoothDeviceName",sensorData["bluetoothDeviceName"]);
 
       addList("cellTowerId",sensorData["cellTowerId"]);
+
+    sensorData["ssid"].sort(function(a,b){return a.timestamp-b.timestamp});
 
         addList("ssid",sensorData["ssid"]);
 
@@ -172,18 +173,27 @@ function parseJ3M (path)
 function addList(name, arraySensorData)
 {
 
-
   $("#main-row").append('<div class="row-fluid"><div class="span12" id="' + name  + 'List"><h3>' + name + '</h3></div></div>');
+
+
 
   $.each(arraySensorData,function(id, item){
 
-              if(typeof item =='object')
+              if(item instanceof Array)
+              {
+                  $.each(item,function(id2, item2){
+                      $("#" + name + "List").append("<div>" + id + ": " + item2 + "</div>");
+                
+                  });
+              }
+              else if(typeof item =='object')
               {
                 $("#" + name + "List").append("<div>" + id + ": " + item.value + " at " + formatTime(item.timestamp) + "</div>");
               }
               else
               {
                 $("#" + name + "List").append("<div>" + id + ": " + item + "</div>");
+
 
               }
   });
@@ -193,6 +203,8 @@ function addList(name, arraySensorData)
 function addChart (name, chartType, arraySensorData)
 {
 
+
+  arraySensorData.sort(function(a,b){return a.timestamp-b.timestamp});
 
 
   $("#main-row").append('<div class="row-fluid"><div class="span12"><h3>' + name + '</h3><p><canvas id="' + name + 'Chart" height="300" width="1200"></canvas></p></div></div>');
@@ -235,6 +247,95 @@ var isEven = false;
   var newChat = new Chart(ctx).Line(data);
 
 }
+
+function addMultiChart (name, chartType, arraySensorData1,arraySensorData2,arraySensorData3)
+{
+
+
+  arraySensorData1.sort(function(a,b){return a.timestamp-b.timestamp});
+
+  arraySensorData2.sort(function(a,b){return a.timestamp-b.timestamp});
+
+  arraySensorData3.sort(function(a,b){return a.timestamp-b.timestamp});
+
+  $("#main-row").append('<div class="row-fluid"><div class="span12"><h3>' + name + '</h3><p><canvas id="' + name + 'Chart" height="300" width="1200"></canvas></p></div></div>');
+
+  //Get context with jQuery - using jQuery's .get() method.
+  var ctx = $("#" + name + "Chart").get(0).getContext("2d");
+  //This will get the first returned node in the jQuery collection.
+  var myNewChart = new Chart(ctx);
+
+  var labels = new Array(); 
+  var datas1 = new Array ();
+ 
+  var datas2 = new Array ();
+ 
+  var datas3 = new Array ();
+
+var isEven = false;
+   $.each(arraySensorData1,function(id, item){
+
+          if (isEven)
+               labels[labels.length] = formatTime(item.timestamp);
+          else
+            labels[labels.length] = "";
+
+            datas1[datas1.length] = item.value;
+
+            isEven = !isEven;
+      });
+
+  $.each(arraySensorData2,function(id, item){
+
+
+            datas2[datas2.length] = item.value;
+
+      });
+
+  $.each(arraySensorData3,function(id, item){
+
+            datas3[datas3.length] = item.value;
+
+      });
+
+
+
+  var data = {
+    labels : labels,
+    datasets : [
+      
+      {
+        fillColor : "rgba(151,187,205,0)",
+        strokeColor : "rgba(151,0,0,1)",
+        pointColor : "rgba(151,187,205,0)",
+
+        pointStrokeColor : "rgba(151,187,205,0)",
+        data : datas1
+      },
+      {
+              fillColor : "rgba(205,187,205,0)",
+      strokeColor : "rgba(0,151,0,1)",
+      pointColor : "rgba(151,187,205,0)",
+
+        pointStrokeColor : "rgba(151,187,205,0)",
+        data : datas2
+      },
+      {
+        fillColor : "rgba(151,205,187,0)",
+        strokeColor : "rgba(0,0,151,1)",
+        pointColor : "rgba(151,187,205,0)",
+
+        pointStrokeColor : "rgba(151,187,205,0)",
+        data : datas3
+      }
+
+    ]
+  }
+
+  var newChat = new Chart(ctx).Line(data);
+
+}
+
 
 function loadMedia (path)
 {
