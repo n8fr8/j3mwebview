@@ -57,38 +57,18 @@ function parseJ3M (path)
    //  $('#destination').text(jemtest.intent.intendedDestination);
       //$('#timestamp').text(jemtest.data.exif.timestamp);
 
-    $.each(j3m.intent,function(id, item){
-          $("#intent_content").append("<div><b>" + id + ":</b> " + item + "</div>");
-      });
+      addList("Intent",j3m.intent);
 
-    $.each(j3m.data.exif,function(id, item){
-          $("#camera_content").append("<div><b>" + id + ":</b> " + item + "</div>");
-      });
+    addList("Camera",j3m.data.exif);
 
-    $.each(j3m.genealogy,function(id, item){
-          $("#gene_content").append("<div><b>" + id + ":</b> " + item + "</div>");
-      });
+
+    addList("Genealogy",j3m.genealogy);
+
 
     if (j3m.data.userAppendedData)
     {
-      $.each(j3m.data.userAppendedData,function(id, item){
+          addList("User Data",j3m.data.userAppendedData);
 
-
-          $.each(item,function(id, item){
-
-            if(typeof item =='object')
-            {
-                 $.each(item,function(id, item){
-                     $("#user_content").append("<div><b>" + id + ":</b> " + item + "</div>");
-         
-                 });
-            }
-            else
-              $("#user_content").append("<div>" + id + ": " + item + "</div>");
-
-          });
-
-        });
     }
 
 
@@ -105,15 +85,48 @@ function parseJ3M (path)
 
                $.each(item,function(id, item){
 
-                      if (!sensorData[id])
+                     if(typeof item =='object')
                       {
-                          sensorData[id] = new Array();
+                           $.each(item,function(id2, item2){
+
+                              if (item2.bssid)
+                              {
+                                 if (!sensorData['ssid'])
+                                  {
+                                      sensorData['ssid'] = new Array();
+                                  }
+
+                                  var sensorEvent = new SensorEvent('ssid', item2.ssid + " (" + item2.bssid + ")", timestamp);
+
+                                  sensorData['ssid'][sensorData['ssid'].length] = sensorEvent;    
+                            }
+                            else
+                            {
+                               if (!sensorData[id])
+                                {
+                                    sensorData[id] = new Array();
+                                }
+
+                                var sensorEvent = new SensorEvent(id, item, timestamp);
+
+
+                                sensorData[id][sensorData[id].length] = sensorEvent;
+                            }
+
+                          });
                       }
+                      else
+                      {
+                        if (!sensorData[id])
+                        {
+                            sensorData[id] = new Array();
+                        }
 
-                      var sensorEvent = new SensorEvent(id, item, timestamp);
+                        var sensorEvent = new SensorEvent(id, item, timestamp);
 
 
-                      sensorData[id][sensorData[id].length] = sensorEvent;
+                        sensorData[id][sensorData[id].length] = sensorEvent;
+                      }
        
                });
 
@@ -144,8 +157,36 @@ function parseJ3M (path)
       addChart("acc_x","",sensorData["acc_x"]);
       addChart("acc_y","",sensorData["acc_y"]);
       addChart("acc_z","",sensorData["acc_z"]);
+
+      addList("bluetoothDeviceName",sensorData["bluetoothDeviceName"]);
+
+      addList("cellTowerId",sensorData["cellTowerId"]);
+
+        addList("ssid",sensorData["ssid"]);
+
   });
 
+
+}
+
+function addList(name, arraySensorData)
+{
+
+
+  $("#main-row").append('<div class="row-fluid"><div class="span12" id="' + name  + 'List"><h3>' + name + '</h3></div></div>');
+
+  $.each(arraySensorData,function(id, item){
+
+              if(typeof item =='object')
+              {
+                $("#" + name + "List").append("<div>" + id + ": " + item.value + " at " + formatTime(item.timestamp) + "</div>");
+              }
+              else
+              {
+                $("#" + name + "List").append("<div>" + id + ": " + item + "</div>");
+
+              }
+  });
 
 }
 
