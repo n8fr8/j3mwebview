@@ -1,0 +1,2955 @@
+{
+    "data": {
+        "exif": {
+            "exposure": "0.050",
+            "orientation": 0,
+            "flash": -1,
+            "model": "Nexus 4",
+            "iso": "200",
+            "location": [
+                42.34772872924805,
+                -71.08488464355469
+            ],
+            "width": 3264,
+            "whiteBalance": -1,
+            "aperture": "2.7",
+            "focalLength": -1,
+            "timestamp": "2013:10:10 10:39:51",
+            "duration": 0,
+            "height": 2448,
+            "make": "LGE"
+        },
+        "sensorCapture": [
+            {
+                "timestamp": 1381415993086,
+                "sensorPlayback": {
+                    "pitch": -8.9996337890625,
+                    "roll": 17.03948974609375,
+                    "azimuth": -58.8592529296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990567,
+                "sensorPlayback": {
+                    "acc_z": -0.4830169677734375,
+                    "roll": 16.0186767578125,
+                    "azimuth": -60.2996826171875,
+                    "lightMeterValue": 5,
+                    "pitch": -7.25860595703125,
+                    "acc_y": 0.64495849609375,
+                    "acc_x": 11.356521606445312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989762,
+                "sensorPlayback": {
+                    "acc_z": 2.4392852783203125,
+                    "acc_y": 2.077545166015625,
+                    "acc_x": 9.935638427734375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995397,
+                "sensorPlayback": {
+                    "acc_z": 5.710113525390625,
+                    "acc_y": 7.300872802734375,
+                    "acc_x": 2.6229400634765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992382,
+                "sensorPlayback": {
+                    "acc_z": -0.113861083984375,
+                    "acc_y": 0.5943756103515625,
+                    "acc_x": 9.846771240234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988160,
+                "sensorPlayback": {
+                    "acc_z": -1.5561676025390625,
+                    "acc_y": -0.10406494140625,
+                    "acc_x": 10.436508178710938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991074,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984086,
+                "sensorPlayback": {
+                    "acc_z": 6.03106689453125,
+                    "roll": -24.5391845703125,
+                    "azimuth": 8.39996337890625,
+                    "pitch": -57.0587158203125,
+                    "acc_y": 8.106826782226562,
+                    "acc_x": 0.939422607421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991981,
+                "sensorPlayback": {
+                    "acc_z": -0.22454833984375,
+                    "roll": 19.9798583984375,
+                    "azimuth": -59.51995849609375,
+                    "lightMeterValue": 5,
+                    "pitch": -7.07855224609375,
+                    "acc_y": 0.660430908203125,
+                    "acc_x": 9.935440063476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990975,
+                "sensorPlayback": {
+                    "acc_z": -0.14361572265625,
+                    "acc_y": 0.539031982421875,
+                    "acc_x": 9.577194213867188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986115,
+                "sensorPlayback": {
+                    "pitch": -53.9398193359375,
+                    "roll": -24.11956787109375,
+                    "azimuth": -14.87884521484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986114,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988859,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 6.77947998046875,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 1,
+                    "pitch": -12.4786376953125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988758,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994994,
+                "sensorPlayback": {
+                    "acc_z": 6.2105865478515625,
+                    "acc_y": 7.3502655029296875,
+                    "acc_x": 2.33551025390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994448,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "Nokia C7-00",
+                    "bluetoothDeviceRedacted": "9C:4A:7B:30:28:61",
+                    "bluetoothDeviceAddress": "9C:4A:7B:30:28:61"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987346,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984274,
+                "sensorPlayback": {
+                    "acc_z": 6.03106689453125,
+                    "roll": -24.5391845703125,
+                    "azimuth": 8.39996337890625,
+                    "pitch": -57.0587158203125,
+                    "acc_y": 8.106826782226562,
+                    "acc_x": 0.939422607421875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989660,
+                "sensorPlayback": {
+                    "acc_z": 0.4659576416015625,
+                    "acc_y": 2.0852813720703125,
+                    "acc_x": 10.76043701171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994087,
+                "sensorPlayback": {
+                    "acc_z": 6.81182861328125,
+                    "acc_y": 6.116241455078125,
+                    "acc_x": -1.226715087890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995202,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "pitch": -56.878662109375,
+                    "roll": -26.6387939453125,
+                    "azimuth": -8.87908935546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994894,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "acc_z": 6.0911712646484375,
+                    "acc_y": 7.3439178466796875,
+                    "acc_x": 2.450958251953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993886,
+                "sensorPlayback": {
+                    "acc_z": 5.6008148193359375,
+                    "acc_y": 6.16265869140625,
+                    "acc_x": -0.0371246337890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992786,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986434,
+                "sensorPlayback": {
+                    "pitch": -53.5797119140625,
+                    "roll": -22.7386474609375,
+                    "azimuth": -20.03936767578125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984595,
+                "sensorPlayback": {
+                    "pitch": -57.659912109375,
+                    "roll": -26.0986328125,
+                    "azimuth": 10.919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991612,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "A0:6C:EC:BA:6B:C2",
+                    "bluetoothDeviceAddress": "A0:6C:EC:BA:6B:C2"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989965,
+                "sensorPlayback": {
+                    "lightMeterValue": 2
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984484,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC10FC54",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:55:03",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:55:03"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994592,
+                "sensorPlayback": {
+                    "pitch": -54.89959716796875,
+                    "roll": -21.11968994140625,
+                    "azimuth": -14.6392822265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984778,
+                "sensorPlayback": {
+                    "pitch": -56.15997314453125,
+                    "roll": -28.01971435546875,
+                    "azimuth": 10.0799560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995094,
+                "sensorPlayback": {
+                    "acc_z": 5.0842742919921875,
+                    "acc_y": 7.526214599609375,
+                    "acc_x": 3.4417877197265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994309,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "pitch": -43.2586669921875,
+                    "roll": -10.31951904296875,
+                    "azimuth": -26.93939208984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992284,
+                "sensorPlayback": {
+                    "acc_z": -0.2275238037109375,
+                    "roll": 19.5587158203125,
+                    "azimuth": -59.33990478515625,
+                    "lightMeterValue": 5,
+                    "pitch": -7.49969482421875,
+                    "acc_y": 0.5670013427734375,
+                    "acc_x": 9.994949340820312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987438,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987048,
+                "sensorPlayback": {
+                    "acc_z": 4.449310302734375,
+                    "roll": -21.77886962890625,
+                    "azimuth": -30.83953857421875,
+                    "lightMeterValue": 3,
+                    "pitch": -49.55902099609375,
+                    "acc_y": 5.668731689453125,
+                    "acc_x": 4.346527099609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984375,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "DTVBluetooth",
+                    "bluetoothDeviceRedacted": "60:6B:BD:C6:5F:63",
+                    "bluetoothDeviceAddress": "60:6B:BD:C6:5F:63"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994593,
+                "sensorPlayback": {
+                    "lightMeterValue": 9
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994194,
+                "sensorPlayback": {
+                    "acc_z": 9.346328735351562,
+                    "acc_y": 7.81463623046875,
+                    "acc_x": 5.2139739990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991880,
+                "sensorPlayback": {
+                    "acc_z": -0.22454833984375,
+                    "roll": 20.2789306640625,
+                    "azimuth": -59.698486328125,
+                    "lightMeterValue": 5,
+                    "pitch": -6.77947998046875,
+                    "acc_y": 0.660430908203125,
+                    "acc_x": 9.935440063476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986215,
+                "sensorPlayback": {
+                    "acc_z": 5.081695556640625,
+                    "acc_y": 5.9081573486328125,
+                    "acc_x": 6.069915771484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986734,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992182,
+                "sensorPlayback": {
+                    "acc_z": 0.0105133056640625,
+                    "acc_y": 0.5110626220703125,
+                    "acc_x": 9.80511474609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985540,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC749D6C",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:9C:25",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:9C:25"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989661,
+                "sensorPlayback": {
+                    "acc_z": -0.4199371337890625,
+                    "roll": 11.51885986328125,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 1,
+                    "pitch": -8.9385986328125,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991374,
+                "sensorPlayback": {
+                    "acc_z": -0.4453277587890625,
+                    "acc_y": 0.524749755859375,
+                    "acc_x": 9.499832153320312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993987,
+                "sensorPlayback": {
+                    "lightMeterValue": 14
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985513,
+                "sensorPlayback": {
+                    "acc_z": 4.3671875,
+                    "acc_y": 7.2082366943359375,
+                    "acc_x": 5.190765380859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989964,
+                "sensorPlayback": {
+                    "acc_z": -0.403076171875,
+                    "acc_y": -1.1655120849609375,
+                    "acc_x": 8.736923217773438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987537,
+                "sensorPlayback": {
+                    "acc_z": 2.98101806640625,
+                    "acc_y": 0.50372314453125,
+                    "acc_x": 10.12567138671875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986837,
+                "sensorPlayback": {
+                    "pitch": -52.4993896484375,
+                    "roll": -20.6390380859375,
+                    "azimuth": -26.8798828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993286,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 4.83135986328125,
+                    "acc_y": 6.9047393798828125,
+                    "acc_x": 2.9419097900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989159,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 9.8388671875,
+                    "azimuth": -60.2996826171875,
+                    "lightMeterValue": 1,
+                    "pitch": -10.13946533203125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989864,
+                "sensorPlayback": {
+                    "lightMeterValue": 2
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989158,
+                "sensorPlayback": {
+                    "acc_z": 0.9908294677734375,
+                    "acc_y": -0.95623779296875,
+                    "acc_x": 10.2740478515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991478,
+                "sensorPlayback": {
+                    "pitch": -6.4788818359375,
+                    "roll": 20.75958251953125,
+                    "azimuth": -60.418701171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990064,
+                "sensorPlayback": {
+                    "pitch": -8.21990966796875,
+                    "roll": 12.23907470703125,
+                    "azimuth": -60.05859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988050,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986319,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994492,
+                "sensorPlayback": {
+                    "lightMeterValue": 9
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987949,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995496,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "80:60:07:91:E5:4A",
+                    "bluetoothDeviceName": "BlackBerry 9900",
+                    "acc_z": 6.108428955078125,
+                    "acc_y": 7.3546295166015625,
+                    "bluetoothDeviceAddress": "80:60:07:91:E5:4A",
+                    "acc_x": 2.17364501953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991476,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": -1.0261383056640625,
+                    "acc_y": 0.9050140380859375,
+                    "acc_x": 10.260955810546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990668,
+                "sensorPlayback": {
+                    "acc_z": -0.4830169677734375,
+                    "roll": 16.0186767578125,
+                    "azimuth": -60.2996826171875,
+                    "lightMeterValue": 5,
+                    "pitch": -7.25860595703125,
+                    "acc_y": 0.64495849609375,
+                    "acc_x": 11.356521606445312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988616,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "Lafleur",
+                    "bluetoothDeviceRedacted": "70:F9:27:9F:0F:63",
+                    "bluetoothDeviceAddress": "70:F9:27:9F:0F:63"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986835,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986834,
+                "sensorPlayback": {
+                    "acc_z": 4.82977294921875,
+                    "acc_y": 5.052215576171875,
+                    "acc_x": 8.005157470703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989058,
+                "sensorPlayback": {
+                    "acc_z": 0.1596832275390625,
+                    "acc_y": -0.3708648681640625,
+                    "acc_x": 8.98150634765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990467,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987235,
+                "sensorPlayback": {
+                    "acc_z": 3.494781494140625,
+                    "roll": -20.87860107421875,
+                    "azimuth": -35.09979248046875,
+                    "lightMeterValue": 2,
+                    "pitch": -45.89996337890625,
+                    "acc_y": 1.313446044921875,
+                    "acc_x": 10.429367065429688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990163,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 0.8821258544921875,
+                    "acc_y": 0.0072174072265625,
+                    "acc_x": 11.478317260742188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991077,
+                "sensorPlayback": {
+                    "pitch": -6.719970703125,
+                    "roll": 19.1986083984375,
+                    "azimuth": -60.6597900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984474,
+                "sensorPlayback": {
+                    "pitch": -58.1390380859375,
+                    "roll": -25.6195068359375,
+                    "azimuth": 8.39996337890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989360,
+                "sensorPlayback": {
+                    "pitch": -9.41925048828125,
+                    "roll": 10.919189453125,
+                    "azimuth": -60.35919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989763,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986361,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC8230F7",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:87:A1",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:87:A1"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984687,
+                "sensorPlayback": {
+                    "pitch": -57.659912109375,
+                    "roll": -26.0986328125,
+                    "azimuth": 10.919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989560,
+                "sensorPlayback": {
+                    "acc_z": 0.051971435546875,
+                    "acc_y": 0.344635009765625,
+                    "acc_x": 10.072708129882812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985713,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988557,
+                "sensorPlayback": {
+                    "acc_z": -0.8484039306640625,
+                    "acc_y": 0.6951446533203125,
+                    "acc_x": 8.86407470703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990468,
+                "sensorPlayback": {
+                    "acc_z": 0.5869598388671875,
+                    "roll": 14.2791748046875,
+                    "azimuth": -60.418701171875,
+                    "lightMeterValue": 5,
+                    "pitch": -7.61871337890625,
+                    "acc_y": 0.6943511962890625,
+                    "acc_x": 9.558151245117188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988558,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985051,
+                "sensorPlayback": {
+                    "acc_z": 5.5430908203125,
+                    "roll": -30.11932373046875,
+                    "azimuth": 8.39996337890625,
+                    "lightMeterValue": 4,
+                    "pitch": -55.79986572265625,
+                    "acc_y": 8.0074462890625,
+                    "acc_x": 3.51617431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994195,
+                "sensorPlayback": {
+                    "lightMeterValue": 15
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989764,
+                "sensorPlayback": {
+                    "pitch": -8.45947265625,
+                    "roll": 11.639404296875,
+                    "azimuth": -60.05859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988858,
+                "sensorPlayback": {
+                    "acc_z": -0.7373199462890625,
+                    "acc_y": 0.1472625732421875,
+                    "acc_x": 9.708908081054688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993687,
+                "sensorPlayback": {
+                    "acc_z": 10.492477416992188,
+                    "acc_y": 6.783935546875,
+                    "acc_x": 3.9726104736328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993587,
+                "sensorPlayback": {
+                    "lightMeterValue": 8,
+                    "acc_z": 3.554290771484375,
+                    "acc_y": 9.953399658203125,
+                    "acc_x": -0.534027099609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986969,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "MOTORAZR",
+                    "bluetoothDeviceRedacted": "00:22:B4:82:83:25",
+                    "bluetoothDeviceAddress": "00:22:B4:82:83:25"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993287,
+                "sensorPlayback": {
+                    "acc_z": 2.00347900390625,
+                    "roll": 15.11993408203125,
+                    "azimuth": -57.23876953125,
+                    "lightMeterValue": 4,
+                    "pitch": -12.95928955078125,
+                    "acc_y": 4.9825897216796875,
+                    "acc_x": 5.581146240234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984373,
+                "sensorPlayback": {
+                    "acc_z": 5.785888671875,
+                    "acc_y": 8.046127319335938,
+                    "acc_x": 0.318145751953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985413,
+                "sensorPlayback": {
+                    "acc_z": 3.3454132080078125,
+                    "acc_y": 7.7366790771484375,
+                    "acc_x": 3.9666595458984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995296,
+                "sensorPlayback": {
+                    "acc_z": 5.710113525390625,
+                    "acc_y": 7.300872802734375,
+                    "acc_x": 2.6229400634765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995203,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "BlackBerry 9360",
+                    "bluetoothDeviceRedacted": "80:60:07:EB:58:C3",
+                    "bluetoothDeviceAddress": "80:60:07:EB:58:C3"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987134,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989863,
+                "sensorPlayback": {
+                    "acc_z": -2.5884552001953125,
+                    "acc_y": 0.8002777099609375,
+                    "acc_x": 9.604568481445312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988757,
+                "sensorPlayback": {
+                    "acc_z": 0.552642822265625,
+                    "acc_y": 0.1079864501953125,
+                    "acc_x": 8.963851928710938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994700,
+                "sensorPlayback": {
+                    "acc_z": 6.0911712646484375,
+                    "acc_y": 7.3439178466796875,
+                    "acc_x": 2.450958251953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992884,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986013,
+                "sensorPlayback": {
+                    "acc_z": 4.6831817626953125,
+                    "acc_y": 6.6143341064453125,
+                    "acc_x": 5.5228271484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994391,
+                "sensorPlayback": {
+                    "acc_z": 7.4027557373046875,
+                    "roll": -15.95916748046875,
+                    "azimuth": -20.75958251953125,
+                    "pitch": -49.19891357421875,
+                    "acc_y": 7.7265625,
+                    "acc_x": 3.0680694580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993888,
+                "sensorPlayback": {
+                    "lightMeterValue": 11,
+                    "pitch": -31.19964599609375,
+                    "roll": 1.49993896484375,
+                    "azimuth": -40.73944091796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991598,
+                "sensorPlayback": {
+                    "acc_z": 0.57763671875,
+                    "acc_y": 0.779449462890625,
+                    "acc_x": 9.7408447265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991779,
+                "sensorPlayback": {
+                    "acc_z": -0.113861083984375,
+                    "acc_y": 0.7764739990234375,
+                    "acc_x": 10.417465209960938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992994,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987135,
+                "sensorPlayback": {
+                    "acc_z": 3.494781494140625,
+                    "roll": -20.87860107421875,
+                    "azimuth": -35.09979248046875,
+                    "lightMeterValue": 2,
+                    "pitch": -45.89996337890625,
+                    "acc_y": 1.313446044921875,
+                    "acc_x": 10.429367065429688
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987747,
+                "sensorPlayback": {
+                    "acc_z": 1.7537384033203125,
+                    "acc_y": 0.3807373046875,
+                    "acc_x": 9.386764526367188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994996,
+                "sensorPlayback": {
+                    "acc_z": 6.0911712646484375,
+                    "roll": -25.67901611328125,
+                    "azimuth": -9.1796875,
+                    "lightMeterValue": 6,
+                    "pitch": -57.17926025390625,
+                    "acc_y": 7.3439178466796875,
+                    "acc_x": 2.450958251953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985347,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "pitch": -55.499267578125,
+                    "roll": -27.65960693359375,
+                    "azimuth": -2.459716796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990661,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "CONFERENCE2-PC",
+                    "bluetoothDeviceRedacted": "C0:CB:38:CA:7A:BC",
+                    "bluetoothDeviceAddress": "C0:CB:38:CA:7A:BC"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992732,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCAE5353",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:55:07",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:55:07"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986113,
+                "sensorPlayback": {
+                    "acc_z": 4.6831817626953125,
+                    "acc_y": 6.6143341064453125,
+                    "acc_x": 5.5228271484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983949,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "vcrocetto-mba",
+                    "bluetoothDeviceRedacted": "00:88:65:37:58:61",
+                    "bluetoothDeviceAddress": "00:88:65:37:58:61"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993487,
+                "sensorPlayback": {
+                    "lightMeterValue": 8,
+                    "pitch": -18.8995361328125,
+                    "roll": 10.97869873046875,
+                    "azimuth": -52.61993408203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990063,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 0.8821258544921875,
+                    "acc_y": 0.0072174072265625,
+                    "acc_x": 11.478317260742188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988355,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": -0.53863525390625,
+                    "azimuth": -58.01849365234375,
+                    "lightMeterValue": 2,
+                    "pitch": -17.87872314453125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984457,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC11CEBD",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:1B",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:1B"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984200,
+                "sensorPlayback": {
+                    "gps_coords": "[42.3477341,-71.0848743]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988456,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": -0.53863525390625,
+                    "azimuth": -58.01849365234375,
+                    "lightMeterValue": 2,
+                    "pitch": -17.87872314453125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991679,
+                "sensorPlayback": {
+                    "acc_z": 0.15631103515625,
+                    "roll": 20.39947509765625,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 5,
+                    "pitch": -6.5399169921875,
+                    "acc_y": 0.5717620849609375,
+                    "acc_x": 9.687881469726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985327,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCE0E529",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:89:C2",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:89:C2"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989059,
+                "sensorPlayback": {
+                    "pitch": -10.85968017578125,
+                    "roll": 8.51898193359375,
+                    "azimuth": -60.35919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992370,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "E0:A6:70:EA:77:FA",
+                    "bluetoothDeviceAddress": "E0:A6:70:EA:77:FA"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993834,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC110444",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:CE",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:CE"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993787,
+                "sensorPlayback": {
+                    "lightMeterValue": 11,
+                    "pitch": -31.19964599609375,
+                    "roll": 1.49993896484375,
+                    "azimuth": -40.73944091796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985514,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "pitch": -56.15997314453125,
+                    "roll": -25.439453125,
+                    "azimuth": -0.41961669921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992383,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984678,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 5.9620361328125,
+                    "acc_y": 7.2653656005859375,
+                    "acc_x": 0.534759521484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995295,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "pitch": -56.878662109375,
+                    "roll": -26.6387939453125,
+                    "azimuth": -8.87908935546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993960,
+                "sensorPlayback": {
+                    "gps_coords": "[42.3477299,-71.0848819]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984812,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCA26DAE",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:91",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:91"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994701,
+                "sensorPlayback": {
+                    "lightMeterValue": 8
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987045,
+                "sensorPlayback": {
+                    "acc_z": 2.8729095458984375,
+                    "acc_y": 1.8123321533203125,
+                    "acc_x": 6.655487060546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987748,
+                "sensorPlayback": {
+                    "acc_z": 2.383148193359375,
+                    "roll": -13.31939697265625,
+                    "azimuth": -46.8597412109375,
+                    "lightMeterValue": 2,
+                    "pitch": -32.6995849609375,
+                    "acc_y": 0.143890380859375,
+                    "acc_x": 10.723541259765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990164,
+                "sensorPlayback": {
+                    "pitch": -7.79876708984375,
+                    "roll": 13.5589599609375,
+                    "azimuth": -60.2386474609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988759,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 6.77947998046875,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 1,
+                    "pitch": -12.4786376953125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992531,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCAE5353",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:55:07",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:55:07"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989561,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986565,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC27C805",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:3F",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:3F"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987539,
+                "sensorPlayback": {
+                    "pitch": -37.43896484375,
+                    "roll": -16.0186767578125,
+                    "azimuth": -43.19915771484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983872,
+                "sensorPlayback": {
+                    "cellTowerId": "98889931"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987280,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC901DF0",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:BB",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:BB"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988354,
+                "sensorPlayback": {
+                    "acc_z": -0.736328125,
+                    "acc_y": -0.211181640625,
+                    "acc_x": 9.43536376953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985083,
+                "sensorPlayback": {
+                    "acc_z": 5.5430908203125,
+                    "roll": -30.11932373046875,
+                    "azimuth": 8.39996337890625,
+                    "lightMeterValue": 4,
+                    "pitch": -55.79986572265625,
+                    "acc_y": 8.0074462890625,
+                    "acc_x": 3.51617431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992689,
+                "sensorPlayback": {
+                    "acc_z": 0.1533355712890625,
+                    "roll": 18.359375,
+                    "azimuth": -58.79974365234375,
+                    "lightMeterValue": 5,
+                    "pitch": -8.03985595703125,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992084,
+                "sensorPlayback": {
+                    "acc_z": -0.22454833984375,
+                    "roll": 19.9798583984375,
+                    "azimuth": -59.51995849609375,
+                    "lightMeterValue": 5,
+                    "pitch": -7.07855224609375,
+                    "acc_y": 0.660430908203125,
+                    "acc_x": 9.935440063476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993719,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC7A0F2B",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:87:A0",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:87:A0"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986217,
+                "sensorPlayback": {
+                    "pitch": -53.9398193359375,
+                    "roll": -24.11956787109375,
+                    "azimuth": -14.87884521484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990264,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988657,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 3.95965576171875,
+                    "azimuth": -59.99908447265625,
+                    "lightMeterValue": 1,
+                    "pitch": -14.6392822265625,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993416,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "40:2C:F4:90:2B:78",
+                    "bluetoothDeviceAddress": "40:2C:F4:90:2B:78"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995201,
+                "sensorPlayback": {
+                    "acc_z": 6.0554656982421875,
+                    "acc_y": 7.426239013671875,
+                    "acc_x": 2.917510986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991780,
+                "sensorPlayback": {
+                    "acc_z": -0.22454833984375,
+                    "roll": 20.2789306640625,
+                    "azimuth": -59.698486328125,
+                    "lightMeterValue": 5,
+                    "pitch": -6.77947998046875,
+                    "acc_y": 0.660430908203125,
+                    "acc_x": 9.935440063476562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994794,
+                "sensorPlayback": {
+                    "acc_z": 6.0911712646484375,
+                    "acc_y": 7.3439178466796875,
+                    "acc_x": 2.450958251953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992183,
+                "sensorPlayback": {
+                    "acc_z": -0.2275238037109375,
+                    "roll": 19.5587158203125,
+                    "azimuth": -59.33990478515625,
+                    "lightMeterValue": 5,
+                    "pitch": -7.49969482421875,
+                    "acc_y": 0.5670013427734375,
+                    "acc_x": 9.994949340820312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994702,
+                "sensorPlayback": {
+                    "pitch": -54.89959716796875,
+                    "roll": -21.11968994140625,
+                    "azimuth": -14.6392822265625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984591,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "BLACKBERRY-5DA6",
+                    "bluetoothDeviceRedacted": "94:EB:CD:85:E7:6B",
+                    "bluetoothDeviceAddress": "94:EB:CD:85:E7:6B"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993688,
+                "sensorPlayback": {
+                    "lightMeterValue": 11
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993385,
+                "sensorPlayback": {
+                    "acc_z": 4.5022735595703125,
+                    "acc_y": 6.4084320068359375,
+                    "acc_x": 2.9371490478515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989359,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCEC8990",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:1A",
+                    "acc_z": 0.8218231201171875,
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:1A",
+                    "acc_y": -0.048919677734375,
+                    "acc_x": 10.547592163085938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989459,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985613,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988053,
+                "sensorPlayback": {
+                    "pitch": -28.13873291015625,
+                    "roll": -9.539794921875,
+                    "azimuth": -50.63934326171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986216,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989025,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "AC:81:F3:8D:AC:92",
+                    "bluetoothDeviceAddress": "AC:81:F3:8D:AC:92"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988154,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984524,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCC20D91",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:37",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:37"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994796,
+                "sensorPlayback": {
+                    "lightMeterValue": 8,
+                    "pitch": -56.939697265625,
+                    "roll": -24.47967529296875,
+                    "azimuth": -10.198974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986935,
+                "sensorPlayback": {
+                    "acc_z": 4.449310302734375,
+                    "roll": -21.77886962890625,
+                    "azimuth": -30.83953857421875,
+                    "lightMeterValue": 3,
+                    "pitch": -49.55902099609375,
+                    "acc_y": 5.668731689453125,
+                    "acc_x": 4.346527099609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995499,
+                "sensorPlayback": {
+                    "pitch": -56.878662109375,
+                    "roll": -26.6998291015625,
+                    "azimuth": -9.05914306640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986317,
+                "sensorPlayback": {
+                    "acc_z": 4.90753173828125,
+                    "acc_y": 5.9617156982421875,
+                    "acc_x": 6.2407073974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988656,
+                "sensorPlayback": {
+                    "acc_z": -0.190826416015625,
+                    "acc_y": 0.8472900390625,
+                    "acc_x": 9.868789672851562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989460,
+                "sensorPlayback": {
+                    "pitch": -9.41925048828125,
+                    "roll": 10.919189453125,
+                    "azimuth": -60.35919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994493,
+                "sensorPlayback": {
+                    "acc_z": 7.4027557373046875,
+                    "roll": -15.95916748046875,
+                    "azimuth": -20.75958251953125,
+                    "pitch": -49.19891357421875,
+                    "acc_y": 7.7265625,
+                    "acc_x": 3.0680694580078125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986934,
+                "sensorPlayback": {
+                    "acc_z": 6.33892822265625,
+                    "acc_y": 4.0697174072265625,
+                    "acc_x": 8.17852783203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985573,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC81C056",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:1A",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:1A"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985182,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 5.5430908203125,
+                    "acc_y": 8.0074462890625,
+                    "acc_x": 3.51617431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995095,
+                "sensorPlayback": {
+                    "acc_z": 6.0911712646484375,
+                    "roll": -25.67901611328125,
+                    "azimuth": -9.1796875,
+                    "lightMeterValue": 6,
+                    "pitch": -57.17926025390625,
+                    "acc_y": 7.3439178466796875,
+                    "acc_x": 2.450958251953125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987950,
+                "sensorPlayback": {
+                    "pitch": -28.13873291015625,
+                    "roll": -9.539794921875,
+                    "azimuth": -50.63934326171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988559,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 3.95965576171875,
+                    "azimuth": -59.99908447265625,
+                    "lightMeterValue": 1,
+                    "pitch": -14.6392822265625,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989562,
+                "sensorPlayback": {
+                    "acc_z": -0.4199371337890625,
+                    "roll": 11.51885986328125,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 1,
+                    "pitch": -8.9385986328125,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988255,
+                "sensorPlayback": {
+                    "pitch": -22.7996826171875,
+                    "roll": -4.97894287109375,
+                    "azimuth": -54.5989990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986433,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986633,
+                "sensorPlayback": {
+                    "acc_z": 4.3320770263671875,
+                    "roll": -20.9991455078125,
+                    "azimuth": -23.8189697265625,
+                    "lightMeterValue": 3,
+                    "pitch": -53.27911376953125,
+                    "acc_y": 6.4116058349609375,
+                    "acc_x": 6.0935211181640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984205,
+                "sensorPlayback": {
+                    "IMEI": "355136050839292",
+                    "bluetoothDeviceName": "Nexus 4",
+                    "cellTowerId": "98889931",
+                    "bluetoothDeviceAddress": "98:D6:F7:D0:BF:67"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983993,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC292CDF",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:87:9B",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:87:9B"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990767,
+                "sensorPlayback": {
+                    "acc_z": -1.0324859619140625,
+                    "roll": 17.33856201171875,
+                    "azimuth": -60.6597900390625,
+                    "lightMeterValue": 5,
+                    "pitch": -6.719970703125,
+                    "acc_y": 0.288299560546875,
+                    "acc_x": 10.279800415039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984473,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 5.3145751953125,
+                    "acc_y": 7.8533172607421875,
+                    "acc_x": 0.663299560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985382,
+                "sensorPlayback": {
+                    "visibleWifiNetworks": [
+                        {
+                            "bssid": "64:a7:69:cd:d2:32",
+                            "ssid": "HTC Portable Hotspot"
+                        },
+                        {
+                            "bssid": "68:7f:74:3a:85:ce",
+                            "ssid": "Reg"
+                        },
+                        {
+                            "bssid": "58:6d:8f:fa:87:d2",
+                            "ssid": "nexis#1"
+                        },
+                        {
+                            "bssid": "88:f0:77:bf:a0:20",
+                            "ssid": "Hynes Wireless Network"
+                        },
+                        {
+                            "bssid": "ca:d7:19:4f:8a:db",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "88:f0:77:bf:8c:30",
+                            "ssid": "Hynes Wireless Network"
+                        },
+                        {
+                            "bssid": "88:f0:77:ad:20:30",
+                            "ssid": "Hynes Wireless Network"
+                        },
+                        {
+                            "bssid": "00:15:ff:2a:40:30",
+                            "ssid": "Verizon MIFI4510L 4030 Secure"
+                        },
+                        {
+                            "bssid": "88:f0:77:bf:8c:3f",
+                            "ssid": "Hynes Wireless Network"
+                        },
+                        {
+                            "bssid": "58:6d:8f:fa:87:d4",
+                            "ssid": "nexis#1"
+                        },
+                        {
+                            "bssid": "88:f0:77:bf:a7:91",
+                            "ssid": "Hynes Staff"
+                        },
+                        {
+                            "bssid": "88:f0:77:ad:20:3d",
+                            "ssid": ""
+                        },
+                        {
+                            "bssid": "88:f0:77:bf:8c:3c",
+                            "ssid": "Hynes Fast Wireless"
+                        },
+                        {
+                            "bssid": "88:f0:77:ad:20:3f",
+                            "ssid": "Hynes Wireless Network"
+                        }
+                    ]
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985814,
+                "sensorPlayback": {
+                    "acc_z": 4.6808013916015625,
+                    "roll": -25.01983642578125,
+                    "azimuth": -4.61883544921875,
+                    "lightMeterValue": 3,
+                    "pitch": -55.73883056640625,
+                    "acc_y": 7.0267333984375,
+                    "acc_x": 4.8515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985945,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC108956",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:5B:5D",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:5B:5D"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992083,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991632,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCF36245",
+                    "bluetoothDeviceRedacted": "40:2C:F4:90:2C:A9",
+                    "bluetoothDeviceAddress": "40:2C:F4:90:2C:A9"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990266,
+                "sensorPlayback": {
+                    "pitch": -7.79876708984375,
+                    "roll": 13.5589599609375,
+                    "azimuth": -60.2386474609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987538,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993988,
+                "sensorPlayback": {
+                    "lightMeterValue": 15,
+                    "pitch": -37.3199462890625,
+                    "roll": -4.49981689453125,
+                    "azimuth": -33.47930908203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987436,
+                "sensorPlayback": {
+                    "acc_z": 2.9062347412109375,
+                    "acc_y": 1.044464111328125,
+                    "acc_x": 9.6773681640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988389,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:1A",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:1A"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993972,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "04:54:53:17:D9:73",
+                    "bluetoothDeviceAddress": "04:54:53:17:D9:73"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985183,
+                "sensorPlayback": {
+                    "acc_z": 5.5430908203125,
+                    "roll": -30.11932373046875,
+                    "azimuth": 8.39996337890625,
+                    "lightMeterValue": 4,
+                    "pitch": -55.79986572265625,
+                    "acc_y": 8.0074462890625,
+                    "acc_x": 3.51617431640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984777,
+                "sensorPlayback": {
+                    "acc_z": 10.09674072265625,
+                    "acc_y": 6.3394012451171875,
+                    "acc_x": 2.277191162109375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984506,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCBC20D2",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:89:04",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:89:04"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988173,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:93",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:93"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988960,
+                "sensorPlayback": {
+                    "lightMeterValue": 1,
+                    "acc_z": -0.4199371337890625,
+                    "acc_y": -0.127471923828125,
+                    "acc_x": 10.031448364257812
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987348,
+                "sensorPlayback": {
+                    "pitch": -41.8792724609375,
+                    "roll": -18.95904541015625,
+                    "azimuth": -39.29901123046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987690,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "NEIL-PC",
+                    "bluetoothDeviceRedacted": "00:1B:B1:65:82:9D",
+                    "bluetoothDeviceAddress": "00:1B:B1:65:82:9D"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990867,
+                "sensorPlayback": {
+                    "acc_z": -1.0324859619140625,
+                    "roll": 17.33856201171875,
+                    "azimuth": -60.6597900390625,
+                    "lightMeterValue": 5,
+                    "pitch": -6.719970703125,
+                    "acc_y": 0.288299560546875,
+                    "acc_x": 10.279800415039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983985,
+                "sensorPlayback": {
+                    "acc_z": 4.311248779296875,
+                    "acc_y": 7.9140167236328125,
+                    "acc_x": 0.814453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992583,
+                "sensorPlayback": {
+                    "acc_z": 0.1533355712890625,
+                    "roll": 18.359375,
+                    "azimuth": -58.79974365234375,
+                    "lightMeterValue": 5,
+                    "pitch": -8.03985595703125,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989966,
+                "sensorPlayback": {
+                    "pitch": -8.21990966796875,
+                    "roll": 12.23907470703125,
+                    "azimuth": -60.05859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990566,
+                "sensorPlayback": {
+                    "acc_z": -0.0759735107421875,
+                    "acc_y": 0.976226806640625,
+                    "acc_x": 10.26849365234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986014,
+                "sensorPlayback": {
+                    "acc_z": 4.6808013916015625,
+                    "roll": -24.47967529296875,
+                    "azimuth": -9.2987060546875,
+                    "lightMeterValue": 3,
+                    "pitch": -54.65850830078125,
+                    "acc_y": 7.0267333984375,
+                    "acc_x": 4.8515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984879,
+                "sensorPlayback": {
+                    "pitch": -56.15997314453125,
+                    "roll": -28.01971435546875,
+                    "azimuth": 10.0799560546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984878,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 7.8264617919921875,
+                    "acc_y": 6.911285400390625,
+                    "acc_x": 3.067474365234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987674,
+                "sensorPlayback": {
+                    "pitch": -37.43896484375,
+                    "roll": -16.0186767578125,
+                    "azimuth": -43.19915771484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987980,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCA850F2",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:89:0B",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:89:0B"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986533,
+                "sensorPlayback": {
+                    "acc_z": 4.3320770263671875,
+                    "roll": -20.9991455078125,
+                    "azimuth": -23.8189697265625,
+                    "lightMeterValue": 3,
+                    "pitch": -53.27911376953125,
+                    "acc_y": 6.4116058349609375,
+                    "acc_x": 6.0935211181640625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992885,
+                "sensorPlayback": {
+                    "acc_z": -0.0382843017578125,
+                    "roll": 17.8192138671875,
+                    "azimuth": -58.67919921875,
+                    "pitch": -8.45947265625,
+                    "acc_y": 0.1063995361328125,
+                    "acc_x": 10.1597900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987850,
+                "sensorPlayback": {
+                    "acc_z": 2.383148193359375,
+                    "roll": -13.31939697265625,
+                    "azimuth": -46.8597412109375,
+                    "lightMeterValue": 2,
+                    "pitch": -32.6995849609375,
+                    "acc_y": 0.143890380859375,
+                    "acc_x": 10.723541259765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986735,
+                "sensorPlayback": {
+                    "pitch": -52.4993896484375,
+                    "roll": -20.6390380859375,
+                    "azimuth": -26.8798828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991581,
+                "sensorPlayback": {
+                    "acc_z": 0.15631103515625,
+                    "roll": 20.39947509765625,
+                    "azimuth": -60.17913818359375,
+                    "lightMeterValue": 5,
+                    "pitch": -6.5399169921875,
+                    "acc_y": 0.5717620849609375,
+                    "acc_x": 9.687881469726562
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986248,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "BlackBerry 9900",
+                    "bluetoothDeviceRedacted": "70:AA:B2:9B:AF:5E",
+                    "bluetoothDeviceAddress": "70:AA:B2:9B:AF:5E"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992686,
+                "sensorPlayback": {
+                    "acc_z": 0.12060546875,
+                    "acc_y": 0.4194183349609375,
+                    "acc_x": 9.336776733398438
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992784,
+                "sensorPlayback": {
+                    "acc_z": -0.0382843017578125,
+                    "roll": 17.8192138671875,
+                    "azimuth": -58.67919921875,
+                    "pitch": -8.45947265625,
+                    "acc_y": 0.1063995361328125,
+                    "acc_x": 10.1597900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985917,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985614,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "pitch": -56.15997314453125,
+                    "roll": -25.439453125,
+                    "azimuth": -0.41961669921875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986431,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCB3BBC1",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:33",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:33"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985813,
+                "sensorPlayback": {
+                    "acc_z": 4.6831817626953125,
+                    "acc_y": 6.6143341064453125,
+                    "acc_x": 5.5228271484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990263,
+                "sensorPlayback": {
+                    "acc_z": -0.4504852294921875,
+                    "acc_y": 0.258148193359375,
+                    "acc_x": 10.887786865234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993186,
+                "sensorPlayback": {
+                    "acc_z": 2.00347900390625,
+                    "roll": 15.11993408203125,
+                    "azimuth": -57.23876953125,
+                    "lightMeterValue": 4,
+                    "pitch": -12.95928955078125,
+                    "acc_y": 4.9825897216796875,
+                    "acc_x": 5.581146240234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988961,
+                "sensorPlayback": {
+                    "pitch": -10.85968017578125,
+                    "roll": 8.51898193359375,
+                    "azimuth": -60.35919189453125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987673,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "acc_z": 1.279449462890625,
+                    "acc_y": 0.206573486328125,
+                    "acc_x": 10.274642944335938
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994591,
+                "sensorPlayback": {
+                    "acc_z": 6.395263671875,
+                    "acc_y": 7.3058319091796875,
+                    "acc_x": 2.33074951171875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993887,
+                "sensorPlayback": {
+                    "lightMeterValue": 14
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415984374,
+                "sensorPlayback": {
+                    "pitch": -58.1390380859375,
+                    "roll": -25.6195068359375,
+                    "azimuth": 8.39996337890625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986143,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC55E3BB",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:A3",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:A3"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993486,
+                "sensorPlayback": {
+                    "acc_z": -1.489715576171875,
+                    "acc_y": 7.984832763671875,
+                    "acc_x": 3.5477142333984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988959,
+                "sensorPlayback": {
+                    "acc_z": 0.6758270263671875,
+                    "acc_y": 0.33233642578125,
+                    "acc_x": 10.190338134765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992993,
+                "sensorPlayback": {
+                    "pitch": -8.9996337890625,
+                    "roll": 17.03948974609375,
+                    "azimuth": -58.8592529296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985346,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 5.1485443115234375,
+                    "acc_y": 7.8235626220703125,
+                    "acc_x": 3.5227203369140625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986882,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:BB",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:BB"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993085,
+                "sensorPlayback": {
+                    "lightMeterValue": 4,
+                    "acc_z": 4.83135986328125,
+                    "acc_y": 6.9047393798828125,
+                    "acc_x": 2.9419097900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993386,
+                "sensorPlayback": {
+                    "lightMeterValue": 8,
+                    "pitch": -18.8995361328125,
+                    "roll": 10.97869873046875,
+                    "azimuth": -52.61993408203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994895,
+                "sensorPlayback": {
+                    "lightMeterValue": 8,
+                    "pitch": -56.939697265625,
+                    "roll": -24.47967529296875,
+                    "azimuth": -10.198974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987849,
+                "sensorPlayback": {
+                    "acc_z": 1.2360076904296875,
+                    "acc_y": 0.797698974609375,
+                    "acc_x": 9.683120727539062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990977,
+                "sensorPlayback": {
+                    "pitch": -6.719970703125,
+                    "roll": 19.1986083984375,
+                    "azimuth": -60.6597900390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987047,
+                "sensorPlayback": {
+                    "lightMeterValue": 3,
+                    "acc_z": 3.760589599609375,
+                    "acc_y": 2.32391357421875,
+                    "acc_x": 11.2769775390625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988156,
+                "sensorPlayback": {
+                    "pitch": -22.7996826171875,
+                    "roll": -4.97894287109375,
+                    "azimuth": -54.5989990234375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990364,
+                "sensorPlayback": {
+                    "acc_z": 0.5869598388671875,
+                    "roll": 14.2791748046875,
+                    "azimuth": -60.418701171875,
+                    "lightMeterValue": 5,
+                    "pitch": -7.61871337890625,
+                    "acc_y": 0.6943511962890625,
+                    "acc_x": 9.558151245117188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991375,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988772,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPCB80A8A",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8F:AE",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8F:AE"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993884,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "04:54:53:17:D9:73",
+                    "bluetoothDeviceAddress": "04:54:53:17:D9:73"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989259,
+                "sensorPlayback": {
+                    "acc_z": -0.3215484619140625,
+                    "roll": 9.8388671875,
+                    "azimuth": -60.2996826171875,
+                    "lightMeterValue": 1,
+                    "pitch": -10.13946533203125,
+                    "acc_y": 0.6598358154296875,
+                    "acc_x": 9.898941040039062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992688,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994088,
+                "sensorPlayback": {
+                    "lightMeterValue": 15,
+                    "pitch": -37.3199462890625,
+                    "roll": -4.49981689453125,
+                    "azimuth": -33.47930908203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991174,
+                "sensorPlayback": {
+                    "acc_z": -0.14361572265625,
+                    "roll": 20.39947509765625,
+                    "azimuth": -60.5987548828125,
+                    "pitch": -6.23931884765625,
+                    "acc_y": 0.539031982421875,
+                    "acc_x": 9.577194213867188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992990,
+                "sensorPlayback": {
+                    "acc_z": 1.1626129150390625,
+                    "acc_y": 0.5800933837890625,
+                    "acc_x": 12.59490966796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985414,
+                "sensorPlayback": {
+                    "lightMeterValue": 2,
+                    "pitch": -55.499267578125,
+                    "roll": -27.65960693359375,
+                    "azimuth": -2.459716796875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990976,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989866,
+                "sensorPlayback": {
+                    "pitch": -8.45947265625,
+                    "roll": 11.639404296875,
+                    "azimuth": -60.05859375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988254,
+                "sensorPlayback": {
+                    "acc_z": 1.615478515625,
+                    "acc_y": -0.2244720458984375,
+                    "acc_x": 10.754486083984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995498,
+                "sensorPlayback": {
+                    "lightMeterValue": 8
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986461,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC79ADAE",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:19",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:19"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993588,
+                "sensorPlayback": {
+                    "pitch": -25.19989013671875,
+                    "roll": 6.95953369140625,
+                    "azimuth": -46.91925048828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995089,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "BlackBerry 9360",
+                    "bluetoothDeviceRedacted": "80:60:07:EB:58:C3",
+                    "bluetoothDeviceAddress": "80:60:07:EB:58:C3"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992283,
+                "sensorPlayback": {
+                    "acc_z": 0.14678955078125,
+                    "acc_y": 0.6027069091796875,
+                    "acc_x": 9.911041259765625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993786,
+                "sensorPlayback": {
+                    "acc_z": 2.254608154296875,
+                    "acc_y": 8.227035522460938,
+                    "acc_x": 3.7643280029296875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991274,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415995398,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "pitch": -56.878662109375,
+                    "roll": -26.6387939453125,
+                    "azimuth": -8.87908935546875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991980,
+                "sensorPlayback": {
+                    "acc_z": 0.0414581298828125,
+                    "acc_y": 0.6473388671875,
+                    "acc_x": 9.668243408203125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994305,
+                "sensorPlayback": {
+                    "acc_z": 5.8198089599609375,
+                    "acc_y": 6.0787506103515625,
+                    "acc_x": 1.1399688720703125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985353,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC822A39",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:55:00",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:55:00"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992668,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC783B85",
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:88:93",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:88:93"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987439,
+                "sensorPlayback": {
+                    "pitch": -41.8792724609375,
+                    "roll": -18.95904541015625,
+                    "azimuth": -39.29901123046875
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987340,
+                "sensorPlayback": {
+                    "acc_z": 2.61761474609375,
+                    "acc_y": 1.06390380859375,
+                    "acc_x": 9.971939086914062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983970,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC0EA7CE",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:51:43",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:51:43"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985029,
+                "sensorPlayback": {
+                    "acc_z": 7.0254669189453125,
+                    "acc_y": 6.9725799560546875,
+                    "acc_x": 1.88323974609375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415983868,
+                "sensorPlayback": {
+                    "gps_coords": "[42.3477279,-71.0849235]"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415988048,
+                "sensorPlayback": {
+                    "acc_z": 0.7353363037109375,
+                    "acc_y": -0.03900146484375,
+                    "acc_x": 9.892593383789062
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415986320,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "IBAWKS232",
+                    "bluetoothDeviceRedacted": "88:53:2E:84:5B:6F",
+                    "roll": -22.7386474609375,
+                    "azimuth": -20.03936767578125,
+                    "pitch": -53.5797119140625,
+                    "bluetoothDeviceAddress": "88:53:2E:84:5B:6F"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415991275,
+                "sensorPlayback": {
+                    "acc_z": -0.14361572265625,
+                    "roll": 20.39947509765625,
+                    "azimuth": -60.5987548828125,
+                    "pitch": -6.23931884765625,
+                    "acc_y": 0.539031982421875,
+                    "acc_x": 9.577194213867188
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415987552,
+                "sensorPlayback": {
+                    "bluetoothDeviceRedacted": "60:D8:19:B0:8D:CE",
+                    "bluetoothDeviceAddress": "60:D8:19:B0:8D:CE"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994196,
+                "sensorPlayback": {
+                    "lightMeterValue": 7,
+                    "pitch": -43.2586669921875,
+                    "roll": -10.31951904296875,
+                    "azimuth": -26.93939208984375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415994491,
+                "sensorPlayback": {
+                    "acc_z": 6.319091796875,
+                    "acc_y": 7.2725067138671875,
+                    "acc_x": 3.1478118896484375
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415992483,
+                "sensorPlayback": {
+                    "acc_z": -0.2275238037109375,
+                    "roll": 19.07958984375,
+                    "azimuth": -58.97979736328125,
+                    "lightMeterValue": 5,
+                    "pitch": -7.79876708984375,
+                    "acc_y": 0.5670013427734375,
+                    "acc_x": 9.994949340820312
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415990667,
+                "sensorPlayback": {
+                    "lightMeterValue": 5,
+                    "acc_z": 0.1533355712890625,
+                    "acc_y": 0.622344970703125,
+                    "acc_x": 9.85986328125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415989258,
+                "sensorPlayback": {
+                    "acc_z": 0.0997772216796875,
+                    "acc_y": -0.6192169189453125,
+                    "acc_x": 10.115753173828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985918,
+                "sensorPlayback": {
+                    "acc_z": 4.6808013916015625,
+                    "roll": -24.47967529296875,
+                    "azimuth": -9.2987060546875,
+                    "lightMeterValue": 3,
+                    "pitch": -54.65850830078125,
+                    "acc_y": 7.0267333984375,
+                    "acc_x": 4.8515625
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985004,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC2570A2",
+                    "bluetoothDeviceRedacted": "40:2C:F4:90:31:17",
+                    "bluetoothDeviceAddress": "40:2C:F4:90:31:17"
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415993689,
+                "sensorPlayback": {
+                    "pitch": -25.19989013671875,
+                    "roll": 6.95953369140625,
+                    "azimuth": -46.91925048828125
+                },
+                "captureType": 271
+            },
+            {
+                "timestamp": 1381415985060,
+                "sensorPlayback": {
+                    "bluetoothDeviceName": "VERPC249648",
+                    "bluetoothDeviceRedacted": "E4:D5:3D:CA:5B:45",
+                    "bluetoothDeviceAddress": "E4:D5:3D:CA:5B:45"
+                },
+                "captureType": 271
+            }
+        ]
+    },
+    "intent": {
+        "ownershipType": 400,
+        "alias": "tim",
+        "intendedDestination": "International Bar Association",
+        "pgpKeyFingerprint": "f4bdefea78c0a8e3679a44e0b8ab82f41e6dd13f"
+    },
+    "genealogy": {
+        "localMediaPath": "/22ecd42947ec7a9902f6311da6a3c6272afb99da",
+        "dateCreated": 1381415992088,
+        "hashes": [
+            "a5a8b7ed852b6cbd6604e42a88c957b7"
+        ],
+        "createdOnDevice": "f4bdefea78c0a8e3679a44e0b8ab82f41e6dd13f"
+    }
+}
